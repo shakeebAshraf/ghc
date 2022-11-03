@@ -18,8 +18,6 @@
 	<meta charset="<?php bloginfo('charset'); ?>">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-
 	<?php wp_head(); ?>
 </head>
 
@@ -31,7 +29,9 @@
 		<!-- NAVBAR -->
 		<header class="site-navbar bg-light">
 			<nav class="navbar container navbar-expand-lg navbar-light bg-light">
-				<a class="navbar-brand" href="#"><h3 class="text-danger">GHC GmbH</h3></a>
+				<a class="navbar-brand" href="#">
+					<h3 class="text-danger">GHC GmbH</h3>
+				</a>
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-icon"></span>
 				</button>
