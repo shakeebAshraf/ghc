@@ -11,22 +11,48 @@
  */
 
 ?>
+		    <!-- footer start -->
+			<a id="back-to-top-button"></a>
+ <footer class="pt-5">
 
-<footer id="colophon" class="site-footer">
-	<div class="site-info">
-		<a href="<?php echo esc_url(__('https://wordpress.org/', 'ghc')); ?>">
-			<?php
-			/* translators: %s: CMS name, i.e. WordPress. */
-			printf(esc_html__('Proudly powered by %s', 'ghc'), 'WordPress');
-			?>
-		</a>
-		<span class="sep"> | </span>
-		<?php
-		/* translators: 1: Theme name, 2: Theme author. */
-		printf(esc_html__('Theme: %1$s by %2$s.', 'ghc'), 'ghc', '<a href="http://underscores.me/">Underscores.me</a>');
-		?>
-	</div><!-- .site-info -->
-</footer><!-- #colophon -->
+
+
+ 	<div class="bg-light">
+ 		<div class="container border-bottom border-danger">
+ 			<div class="pt-5 mx-auto">
+ 				<div class="row">
+ 					<div class="col-lg-4 col-md-12 col-sm-12 pb-5">
+ 						<div class="text-center text-lg-left">
+							<?php dynamic_sidebar( 'first-footer-widget' ); ?>
+ 						</div>
+ 					</div>
+ 					<div class="col-lg-4 col-md-6 col-sm-6 mb-5">
+					 <?php dynamic_sidebar( 'second-footer-widget' ); ?>
+ 					</div>
+
+ 					<div class="col-lg-4 col-md-6 col-sm-6">
+ 						<div>
+						 <?php dynamic_sidebar( 'third-footer-widget' ); ?>
+ 						</div>
+ 					</div>
+
+ 				</div>
+ 			</div>
+ 		</div>
+		
+		 <div class="pt-3">
+ 				<div class="row">
+ 					<div class="col text-center">
+ 						<p class="p">© Copyright <?php echo date("Y"); ?> GHC GmbH. All rights reserved.</p>
+ 					</div>
+ 				</div>
+ 			</div>
+ 	</div>
+
+
+
+
+ </footer>
 </div><!-- #page -->
 
 <?php wp_footer(); ?>

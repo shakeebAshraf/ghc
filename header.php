@@ -31,6 +31,7 @@
 			<nav class="navbar container navbar-expand-lg navbar-light bg-light">
 				<a class="navbar-brand" href="#">
 					<h3 class="text-danger">GHC GmbH</h3>
+					<h6 class="text-dark">IT / Business Consultant</h6>
 				</a>
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-icon"></span>

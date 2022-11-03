@@ -143,6 +143,39 @@ function ghc_widgets_init()
 			'after_title'   => '</h2>',
 		)
 	);
+	
+	// First footer widget area, located in the footer.
+	register_sidebar(array(
+		'name' => __('logo and contact', 'ghc'),
+		'id' => 'first-footer-widget',
+		'description' => __('The first footer widget area', 'ghc'),
+		'before_widget' => '',
+		'after_widget' => '',
+		'before_title' => '',
+		'after_title' => '',
+	));
+
+	// Second Footer Widget Area, located in the footer.
+	register_sidebar(array(
+		'name' => __('Site Map', 'ghc'),
+		'id' => 'second-footer-widget',
+		'description' => __('The second footer widget area', 'ghc'),
+		'before_widget' => '',
+		'after_widget' => '',
+		'before_title' => '',
+		'after_title' => '',
+	));
+
+	// Third Footer Widget Area, located in the footer.
+	register_sidebar(array(
+		'name' => __('Working Hours', 'ghc'),
+		'id' => 'third-footer-widget',
+		'description' => __('The third footer widget area', 'ghc'),
+		'before_widget' => '',
+		'after_widget' => '',
+		'before_title' => '',
+		'after_title' => '',
+	));
 }
 add_action('widgets_init', 'ghc_widgets_init');
 
@@ -212,3 +245,9 @@ function add_link_atts($atts)
 	$atts['class'] = "nav-link";
 	return $atts;
 }
+
+
+function mytheme_custom_excerpt_length( $length ) {
+    return 20;
+}
+add_filter( 'excerpt_length', 'mytheme_custom_excerpt_length', 999 );
