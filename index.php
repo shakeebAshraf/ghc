@@ -1,4 +1,5 @@
 <?php
+
 /**
  * The main template file
  *
@@ -14,102 +15,120 @@
 
 get_header();
 ?>
-<div class="jumbotron jumbotron-fluid">
+<div class="banner-section jumbotron jumbotron-fluid">
 	<div class="container">
-		<h1 class="h1">Sales Funel - </h1>
-		<h1 class="h1">High Quality Leads</h1>
-		<p>Exactly the customers you need</p>
+		<div class="row">
+			<div class="col-8">
+				<h1 class="h1 large-font font-white mb-4">Sales Funel -
+					</br>High Quality Leads </h1>
+				<p class="font-white">Exactly the customers you need</p>
+			</div>
+			<div class="col-4">
+				<img src="<?php echo get_template_directory_uri() . '/assets/images/bulb-header-icon.webp' ?>" alt="">
+			</div>
+		</div>
 	</div>
 </div>
 
-<section class="bg-danger">
+<section class="bg-red">
 	<div class="container">
 		<div class="row py-5 m-0 text-white">
-			<div class="col-lg-8">
-				<h1>IT project management & e-commerce</h1>
+			<div class="col-lg-9">
+				<h2 class="medium-font">Many skills for your IT project / e-commerce</h2>
 				<p>From zero to hundred. 360&#176;. For all matters related to project management & e-commerce. Successful and efficient.</p>
 			</div>
-			<div class="col-lg-4 text-center justify-content-center align-self-center">
-				<button class="btn font-weight-bold bg-dark text-white">Get In Touch</button>
+			<div class="col-lg-3 text-center justify-content-center align-self-center">
+				<button class="btn theme-primary-button">Get In Touch</button>
 			</div>
 		</div>
 	</div>
 </section>
 
-<section class="py-5">
+
+<div class="services-section">
 	<div class="container">
 		<div class="row">
-			<div class="col-12 col-md-6 col-lg-3 text-center p-3">
-				<div class="bg-light h-100 p-4">
-					<i class="fa-solid fa-laptop-code text-danger display-3"></i>
-					<h4 class="font-weight-bold mt-3">IT Project Management</h4>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-3 text-center p-3">
-				<div class="bg-light h-100 p-4">
-					<i class="fa-solid fa-filter text-danger display-3"></i>
-					<h4 class="font-weight-bold mt-3">Sales Funnels</h4>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-3 text-center p-3">
-				<div class="bg-light h-100 p-4">
-					<i class="fa-brands fa-buysellads text-danger display-3"></i>
-					<h4 class="font-weight-bold mt-3">Google ads - Performance ads</h4>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-3 text-center p-3">
-				<div class="bg-light h-100 p-4">
-					<i class="fa-solid fa-rocket text-danger display-3"></i>
-					<h4 class="font-weight-bold mt-3">Search Engine Optimization</h4>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-3 text-center p-3">
-				<div class="bg-light h-100 p-4">
-					<i class="fa-solid fa-pen-to-square text-danger display-3"></i>
-					<h4 class="font-weight-bold mt-3">Digital Content Creation</h4>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-3 text-center p-3">
-				<div class="bg-light h-100 p-4">
-					<i class="fa-solid fa-bullhorn text-danger display-3"></i>
-					<h4 class="font-weight-bold mt-3">Affiliate Marketing</h4>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-3 text-center p-3">
-				<div class="bg-light h-100 p-4">
-					<i class="fa-solid fa-envelopes-bulk text-danger display-3"></i>
-					<h4 class="font-weight-bold mt-3">Email Marketing</h4>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 col-lg-3 text-center p-3">
-				<div class="bg-light h-100 p-4">
-					<i class="fa-solid fa-pager text-danger display-3"></i>
-					<h4 class="font-weight-bold mt-3">Landing Pages</h4>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 text-center p-3">
-				<div class="bg-light h-100 p-4">
-					<i class="fa-solid fa-file-code text-danger display-3"></i>
-					<h4 class="font-weight-bold mt-3">Web Pages</h4>
-				</div>
-			</div>
-			<div class="col-12 col-md-6 text-center p-3">
-				<div class="bg-light h-100 p-4">
-					<i class="fa-solid fa-money-check-dollar text-danger display-3"></i>
-					<h4 class="font-weight-bold mt-3">Payment Solutions</h4>
-				</div>
+			<div class="col-9">
+				<h1 class="medium-font">Many skills for your IT project / e-commerce</h1>
+				<p>As an IT project manager with deep technical and business know-how, I can offer you many things at once. Over 30 years of experience. Save the overhead and ask me first!</p>
 			</div>
 		</div>
 	</div>
-</section>
+	<section class="py-4">
+		<div class="container">
+			<div class="row">
+				<div class="col-12 col-md-6 col-lg-3 text-center p-2">
+					<div class="bg-gray h-100 p-4">
+						<img src="<?php echo get_template_directory_uri() . '/assets/images/it-icon.webp' ?>" alt="IT Project Management">
+						<h3 class="small-font mt-3">IT Project Management</h3>
+					</div>
+				</div>
+				<div class="col-12 col-md-6 col-lg-3 text-center p-2">
+					<div class="bg-gray h-100 p-4">
+						<img src="<?php echo get_template_directory_uri() . '/assets/images/filter-icon.webp' ?>" alt="Sales Funnels">
+						<h3 class="small-font mt-3">Sales Funnels</h3>
+					</div>
+				</div>
+				<div class="col-12 col-md-6 col-lg-3 text-center p-2">
+					<div class="bg-gray h-100 p-4">
+						<img src="<?php echo get_template_directory_uri() . '/assets/images/adwords-icon.webp' ?>" alt="Google Ads- Performance">
+						<h3 class="small-font mt-3">Google ads - Performance ads</h3>
+					</div>
+				</div>
+				<div class="col-12 col-md-6 col-lg-3 text-center p-2">
+					<div class="bg-gray h-100 p-4">
+						<img src="<?php echo get_template_directory_uri() . '/assets/images/startup-icon.webp' ?>" alt="SEO">
+						<h3 class="small-font mt-3">Search Engine Optimization</h3>
+					</div>
+				</div>
+				<div class="col-12 col-md-6 col-lg-3 text-center p-2">
+					<div class="bg-gray h-100 p-4">
+						<img src="<?php echo get_template_directory_uri() . '/assets/images/content-creator-icon.webp' ?>" alt="Digital content creation">
+						<h3 class="small-font mt-3">Digital Content Creation</h3>
+					</div>
+				</div>
+				<div class="col-12 col-md-6 col-lg-3 text-center p-2">
+					<div class="bg-gray h-100 p-4">
+						<img src="<?php echo get_template_directory_uri() . '/assets/images/megaphone-icon.webp' ?>" alt="Affiliate Marketing">
+						<h3 class="small-font mt-3">Affiliate Marketing</h3>
+					</div>
+				</div>
+				<div class="col-12 col-md-6 col-lg-3 text-center p-2">
+					<div class="bg-gray h-100 p-4">
+						<img src="<?php echo get_template_directory_uri() . '/assets/images/email-marketing-icon.webp' ?>" alt="Email Marketing">
+						<h3 class="small-font mt-3">Email Marketing</h3>
+					</div>
+				</div>
+				<div class="col-12 col-md-6 col-lg-3 text-center p-2">
+					<div class="bg-gray h-100 p-4">
+						<img src="<?php echo get_template_directory_uri() . '/assets/images/web-page-icon.webp' ?>" alt="Landing page">
+						<h3 class="small-font mt-3">Landing Pages</h3>
+					</div>
+				</div>
+				<div class="col-12 col-md-6 text-center p-2">
+					<div class="bg-gray h-100 p-4">
+						<img src="<?php echo get_template_directory_uri() . '/assets/images/browser-icon.webp' ?>" alt="Web Pages">
+						<h3 class="small-font mt-3">Web Pages</h3>
+					</div>
+				</div>
+				<div class="col-12 col-md-6 text-center p-2">
+					<div class="bg-light h-100 p-4">
+						<img src="<?php echo get_template_directory_uri() . '/assets/images/valid-icon.webp' ?>" alt="Payment Solutions">
+						<h4 class="small-font mt-3">Payment Solutions</h4>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+</div>
 
-<section class="bg-danger my-5">
+<section class="bg-red my-5">
 	<div class="container">
 		<div class="row py-5 m-0 text-white">
-			<div class="col-lg-7 mx-auto text-center">
-				<h1>Start now with a free initial consultation!</h1>
+			<div class="col-lg-8 mx-auto text-center">
+				<h2 class="font-medium">Start now with a free initial consultation!</h2>
 				<p>For new customers we conduct a free consultation. We analyze your concerns and suggest the best solutions.</p>
-				<button class="btn font-weight-bold bg-dark text-white">Request Free Advice Now</button>
+				<button class="btn theme-primary-button">Request Free Advice Now</button>
 			</div>
 		</div>
 	</div>
@@ -123,7 +142,7 @@ get_header();
 				<p>The online marketing business is very exciting in all respects. A good basis for this is knowledge of IT projects. Read tips, news and important insider knowledge here.</p>
 			</div>
 			<div class="col-3 text-right justify-content-center align-self-center">
-				<button class="btn font-weight-bold bg-dark text-white">Show All</button>
+				<button class="btn theme-primary-button">Show All</button>
 			</div>
 		</div>
 		<div class="row justify-content-between">

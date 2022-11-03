@@ -143,7 +143,7 @@ function ghc_widgets_init()
 			'after_title'   => '</h2>',
 		)
 	);
-	
+
 	// First footer widget area, located in the footer.
 	register_sidebar(array(
 		'name' => __('logo and contact', 'ghc'),
@@ -184,12 +184,14 @@ add_action('widgets_init', 'ghc_widgets_init');
  */
 function ghc_scripts()
 {
-	wp_enqueue_style("bootstrap-min.css", get_template_directory_uri() . "assets/css/bootstrap.min.css");
+	wp_enqueue_style("bootstrap-min.css", get_template_directory_uri() . "/assets/css/bootstrap.min.css");
 	wp_enqueue_style('ghc-style', get_stylesheet_uri(), array(), _S_VERSION);
 	wp_style_add_data('ghc-style', 'rtl', 'replace');
-	wp_enqueue_script('jquery-min.js', get_template_directory_uri() . 'assets/js/jquery-3.4.1.slim.min.js', array(), _S_VERSION, true);
-	wp_enqueue_script('popper-min.js', get_template_directory_uri() . 'assets/js/popper.min.js', array(), _S_VERSION, true);
-	wp_enqueue_script('bootstrap-min.js', get_template_directory_uri() . 'assets/js/bootstrap.min.js', array(), _S_VERSION, true);
+	wp_enqueue_style("theme.css", get_template_directory_uri() . "/assets/css/theme.css");
+	wp_enqueue_style("style.css", get_template_directory_uri() . "/assets/css/style.css");
+	wp_enqueue_script('jquery-min.js', get_template_directory_uri() . '/assets/js/jquery-3.4.1.slim.min.js', array(), _S_VERSION, true);
+	wp_enqueue_script('popper-min.js', get_template_directory_uri() . '/assets/js/popper.min.js', array(), _S_VERSION, true);
+	wp_enqueue_script('bootstrap-min.js', get_template_directory_uri() . '/assets/js/bootstrap.min.js', array(), _S_VERSION, true);
 
 	if (is_singular() && comments_open() && get_option('thread_comments')) {
 		wp_enqueue_script('comment-reply');
@@ -247,7 +249,8 @@ function add_link_atts($atts)
 }
 
 
-function mytheme_custom_excerpt_length( $length ) {
-    return 20;
+function mytheme_custom_excerpt_length($length)
+{
+	return 20;
 }
-add_filter( 'excerpt_length', 'mytheme_custom_excerpt_length', 999 );
+add_filter('excerpt_length', 'mytheme_custom_excerpt_length', 999);

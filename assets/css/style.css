@@ -1,0 +1,12 @@
+.banner-section {
+    background: url(../images/header-bg.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    padding: 100px 0 60px;
+    margin: 0;
+}
+
+.services-section {
+    margin: 90px 0;
+}
