@@ -6,6 +6,14 @@
     padding: 100px 0 60px;
     margin: 0;
 }
+.about-section {
+    background: url(../images/about-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    padding: 100px 0 60px;
+    margin: 0;
+}
 
 .services-section {
     margin: 90px 0;

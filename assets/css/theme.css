@@ -37,6 +37,7 @@ h6 {
 
 body {
     font-family: Poppins;
+    overflow-x: hidden;
 }
 
 p {

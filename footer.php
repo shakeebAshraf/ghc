@@ -24,6 +24,10 @@
  					<div class="col-lg-4 col-md-12 col-sm-12 pb-5">
  						<div class="text-center text-lg-left">
 							<?php dynamic_sidebar( 'first-footer-widget' ); ?>
+							<img class="mr-2" src="<?php echo get_template_directory_uri() . '/assets/images/linkedin.png' ?>" width="48px" alt="">
+							<img class="mr-2" src="<?php echo get_template_directory_uri() . '/assets/images/facebook.png' ?>" width="48px" alt="">
+							<img class="mr-2" src="<?php echo get_template_directory_uri() . '/assets/images/instagram.png' ?>" width="48px" alt="">
+							<img class="mr-2" src="<?php echo get_template_directory_uri() . '/assets/images/twitter.png' ?>" width="48px" alt="">
  						</div>
  					</div>
  					<div class="col-lg-4 col-md-6 col-sm-6 mb-5">
@@ -49,10 +53,9 @@
  			</div>
  	</div>
 
-
-
-
  </footer>
+
+ 
 </div><!-- #page -->
 
 <?php wp_footer(); ?>
