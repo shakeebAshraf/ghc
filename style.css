@@ -963,3 +963,20 @@ textarea {
 	margin-right: auto;
 	margin-bottom: 1.5em;
 }
+
+.count-service {
+	/* width: 21px; */
+	/* height: 36px; */
+	position: absolute;
+	margin: -48px 0px 0px -48px;
+	opacity: 0.24;
+	-webkit-text-stroke: 1px #ce1b28;
+	font-family: Poppins;
+	font-size: 64px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	text-align: left;
+  }

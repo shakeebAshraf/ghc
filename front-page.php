@@ -24,7 +24,7 @@ get_header();
                 <p class="font-white">Exactly the customers you need</p>
             </div>
             <div class="col-lg-4">
-                <img src="<?php echo get_template_directory_uri() . '/assets/images/bulb-header-icon.webp' ?>" alt="">
+                <img src="<?php echo get_template_directory_uri() . '/assets/images/bulb-header-icon.webp'?>" alt="">
             </div>
         </div>
     </div>
