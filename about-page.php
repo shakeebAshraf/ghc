@@ -16,7 +16,7 @@
 get_header();
 ?>
 <div class="about-section jumbotron jumbotron-fluid">
-    <div class="container p-5 m-5">
+    <div class="container py-5 my-5">
         <div class="text-center">
             <h1 class="h1 large-font font-white mb-4">About Us</h1>
         </div>

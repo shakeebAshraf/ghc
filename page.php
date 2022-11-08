@@ -18,7 +18,7 @@ get_header();
 
 <div class="jumbotron jumbotron-fluid">
 	<div class="container">
-		<h1 class="h1">Sales Funel - </h1>
+		<h1 class="h1">Sales Funel -</h1>
 		<h1 class="h1">High Quality Leads</h1>
 		<p>Exactly the customers you need</p>
 	</div>

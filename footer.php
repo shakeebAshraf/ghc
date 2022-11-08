@@ -13,7 +13,7 @@
 ?>
 		    <!-- footer start -->
 			<a id="back-to-top-button"></a>
- <footer class="">
+ <footer>
 
 
 

@@ -16,7 +16,7 @@
 get_header();
 ?>
 <div class="seo-section jumbotron jumbotron-fluid">
-    <div class="container p-5 m-5 text-center">
+    <div class="container py-5 my-5 text-center">
         <h1 class="h1 large-font font-white">SEO Agentur Schweiz</h1>
     </div>
 </div>
@@ -160,7 +160,7 @@ get_header();
     </div>
 </section>
 
-<section class="bg-red my-5">
+<section class="bg-red">
     <div class="container">
         <div class="row py-5 m-0 text-white">
             <div class="col-lg-8 mx-auto text-center">
