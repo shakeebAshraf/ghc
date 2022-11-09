@@ -27,7 +27,7 @@ get_header();
     <div class="row">
         <div class="col-md-6 justify-content-center align-self-center my-4 pr-md-5">
             <h2 class="h2 font-medium">Full Service Agency for Websites, SEO & eCommerce</h1>
-            <p>GHC GmbH is an online marketing agency and a consulting company specializing in the field of eCommerce. Our company headquarters are in beautiful Sursee, in the middle of Switzerland. We support companies on their way to eCommerce. From the first hour to continuous support and marketing.</p>
+                <p>GHC GmbH is an online marketing agency and a consulting company specializing in the field of eCommerce. Our company headquarters are in beautiful Sursee, in the middle of Switzerland. We support companies on their way to eCommerce. From the first hour to continuous support and marketing.</p>
         </div>
         <div class="col-md-6 justify-content-center align-self-center my-4 pl-md-5">
             <img src="<?php echo get_template_directory_uri() . '/assets/images/ab1.jpg' ?>" alt="">
@@ -65,10 +65,12 @@ get_header();
         </div>
     </div>
     <div class="row">
-        <p>Today I look after customers 360 degrees in eCommerce and online marketing, whether it&apos;s about the shopping solution, hosting or payment solutions. I see myself as a competent all-round consultant, coach and project manager.</p>
-        <p class="font-weight-bold">However, the central topic is online marketing, eCommerce and conversion and lead generation through <span class="text-danger">search engine optimization (SEO)</span> ,<span class="text-danger"> Google Ads &amp; Performance Ads (SEA)</span> .</p>
-        <p>For the various projects, I work together with experienced, top-class, selected partners.</p>
-        <p class="font-weight-bold">“We are only at 10% of the possibilities that the Internet offers. Let&apos;s do it.&quot;</p>
+        <div class="col-md-12">
+            <p>Today I look after customers 360 degrees in eCommerce and online marketing, whether it&apos;s about the shopping solution, hosting or payment solutions. I see myself as a competent all-round consultant, coach and project manager.</p>
+            <p class="font-weight-bold">However, the central topic is online marketing, eCommerce and conversion and lead generation through <span class="text-danger">search engine optimization (SEO)</span> ,<span class="text-danger"> Google Ads &amp; Performance Ads (SEA)</span> .</p>
+            <p>For the various projects, I work together with experienced, top-class, selected partners.</p>
+            <p class="font-weight-bold">“We are only at 10% of the possibilities that the Internet offers. Let&apos;s do it.&quot;</p>
+        </div>
     </div>
 </section>
 <?php

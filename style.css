@@ -965,11 +965,12 @@ textarea {
 }
 
 .count-service {
-	/* width: 21px; */
-	/* height: 36px; */
 	position: absolute;
-	margin: -48px 0px 0px -48px;
+	margin: -48px 0px 0px -22px;
 	opacity: 0.24;
+	-webkit-text-fill-color: #fff;
+	-webkit-text-fill-color: #fff;
+	-webkit-text-fill-color: rgb(255, 255, 255);
 	-webkit-text-stroke: 1px #ce1b28;
 	font-family: Poppins;
 	font-size: 64px;
@@ -979,4 +980,4 @@ textarea {
 	line-height: normal;
 	letter-spacing: normal;
 	text-align: left;
-  }
+}
