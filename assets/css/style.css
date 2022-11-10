@@ -60,6 +60,51 @@
     margin: 0;
 }
 
+.payment-section {
+    background: url(../images/payment-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    /* padding: 100px 0 60px; */
+    margin: 0;
+}
+
+.internet-section {
+    background: url(../images/internet-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    /* padding: 100px 0 60px; */
+    margin: 0;
+}
+
 .services-section {
     margin: 90px 0;
 }
+  
+  .myaccordion .card,
+  .myaccordion .card:last-child .card-header {
+    border: none;
+    border-radius: 0%;
+  }
+  
+  .myaccordion .card-header {
+    border: none !important; 
+    background: transparent;
+  }
+  
+  .myaccordion .fa-stack {
+    font-size: 18px;
+  }
+  
+  .myaccordion .btn {
+    width: 100%;
+    font-weight: bold;
+    color: #404040;
+    padding: 0;
+  }
+  
+  .myaccordion .btn-link:hover,
+  .myaccordion .btn-link:focus {
+    text-decoration: none;
+  }
