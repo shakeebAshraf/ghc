@@ -98,7 +98,7 @@ get_header();
             </div>
             <div class="col-md-6 px-5 pt-2">
                 <h4>Zahlungsprüfung</h4>
-                <p>Der Aufwand von Zahlungsprüfungen darf nicht unterschätzt werden. Wie man weiter oben sieht, gibt es eine Reihe an Zahlungslösungen. Wie soll ein Händler einfach prüfen können, von wem zu welchem Auftrag wann eine Zahlung eingegangen ist? Dabei kann schnell mal eine Zahlung übersehen werden oder man bemerkt den fehlenden Zahlungseingang nicht. Daraus können unliebsame und kostenintensive Situationen entstehen.  Kunden vergessen schon mal die Bestellnummer bei einer Überweisung anzugeben oder sie runden den Betrag auf oder ab. Da hat sogar eine Software oft das Problem eine Zahlung zuzuordnen. Diese Dinge sollten genau geplant und präzise ausgeführt werden.</p>
+                <p>Der Aufwand von Zahlungsprüfungen darf nicht unterschätzt werden. Wie man weiter oben sieht, gibt es eine Reihe an Zahlungslösungen. Wie soll ein Händler einfach prüfen können, von wem zu welchem Auftrag wann eine Zahlung eingegangen ist? Dabei kann schnell mal eine Zahlung übersehen werden oder man bemerkt den fehlenden Zahlungseingang nicht. Daraus können unliebsame und kostenintensive Situationen entstehen. Kunden vergessen schon mal die Bestellnummer bei einer Überweisung anzugeben oder sie runden den Betrag auf oder ab. Da hat sogar eine Software oft das Problem eine Zahlung zuzuordnen. Diese Dinge sollten genau geplant und präzise ausgeführt werden.</p>
             </div>
             <div class="col-md-6 px-5 pt-2">
                 <h4>Inkasso-Lösungen</h4>
@@ -113,7 +113,7 @@ get_header();
         <div class="text-center">
             <h2 class="h2 font-medium mx-auto">Unsere Leistungen</h2>
             <h6>Analyse, Besprechung & Beratung, Konzept und Durchführung</h6>
-            <p>Wir können Ihnen, aufgrund langjähriger Erfahrung, bei alle den oben genannten Punkten, helfen. In einer Besprechung mit Ihnen analysieren wir Ihre Ist-Situation, den zukünftigen Bedarf oder/und mögliche Verbesserungen. Daraus erstellen wir Ihnen ein Konzept mit Kostenabschätzung. Entspricht dieses Konzept Ihren Vorstellungen können wir es für Sie umsetzen. Dabei besorgen wir die Software, Verträge und schliessen Kooperationen. Sie brauchen  sich um nichts kümmern. Diese Arbeit kann natürlich nur nach Aufwand berechnet werden, da sie zu individuell auf einen Kunden ausgerichtet ist.</p>
+            <p>Wir können Ihnen, aufgrund langjähriger Erfahrung, bei alle den oben genannten Punkten, helfen. In einer Besprechung mit Ihnen analysieren wir Ihre Ist-Situation, den zukünftigen Bedarf oder/und mögliche Verbesserungen. Daraus erstellen wir Ihnen ein Konzept mit Kostenabschätzung. Entspricht dieses Konzept Ihren Vorstellungen können wir es für Sie umsetzen. Dabei besorgen wir die Software, Verträge und schliessen Kooperationen. Sie brauchen sich um nichts kümmern. Diese Arbeit kann natürlich nur nach Aufwand berechnet werden, da sie zu individuell auf einen Kunden ausgerichtet ist.</p>
 
         </div>
     </div>
@@ -124,7 +124,7 @@ get_header();
         <div class="row py-5 m-0 text-white">
             <div class="col-lg-8 mx-auto text-center">
                 <h5 class="font-medium mb-4">Fragen Sie ein detailliertes Gespräch und Offerte bei uns an. Ohne ein Briefing über den Sachverhalt können wir keine klare Strategie entwickeln.</h4>
-                    <button class="btn theme-primary-button">In Kontakt kommen</button>
+                    <button class="btn theme-primary-button cta-button">In Kontakt kommen</button>
             </div>
         </div>
     </div>

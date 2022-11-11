@@ -28,7 +28,7 @@
 
 		<!-- NAVBAR -->
 		<header class="site-navbar bg-light">
-			<nav class="navbar container navbar-expand-lg navbar-light bg-light">
+			<nav class="navbar  container navbar-expand-lg navbar-light bg-light">
 				<a class="navbar-brand" href="#">
 					<h3 class="text-danger">GHC GmbH</h3>
 					<h6 class="text-dark">IT / Business Consultant</h6>
@@ -42,9 +42,6 @@
 					wp_nav_menu(array(
 						'theme_location'  => 'menu-1',
 						'depth'           => 2, // 1 = no dropdowns, 2 = with dropdowns.
-						'container'       => 'div',
-						'container_class' => 'collapse navbar-collapse',
-						'container_id'    => 'bs-example-navbar-collapse-1',
 						'menu_class'      => 'navbar-nav ml-auto',
 						'fallback_cb'     => 'WP_Bootstrap_Navwalker::fallback',
 						'walker'          => new WP_Bootstrap_Navwalker(),

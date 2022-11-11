@@ -108,52 +108,52 @@ get_header();
         <div class="row">
             <div class="col-md-6">
                 <div class="border-bottom border-danger py-2 h-100">
-                SEO funktioniert
+                    SEO funktioniert
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="border-bottom border-danger py-2 h-100">
-                Inhaltsstrategie
+                    Inhaltsstrategie
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="border-bottom border-danger py-2 h-100">
-                Optimierung der definierten Suchbegriffe (Keywords)
+                    Optimierung der definierten Suchbegriffe (Keywords)
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="border-bottom border-danger py-2 h-100">
-                Erstellung von Blogtexten (Content) und Veröffentlichung auf Ihrer Website
+                    Erstellung von Blogtexten (Content) und Veröffentlichung auf Ihrer Website
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="border-bottom border-danger py-2 h-100">
-                Social Shares – Linkaufbau
+                    Social Shares – Linkaufbau
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="border-bottom border-danger py-2 h-100">
-                Verlinkung der Website mit anderen Websites – Linkbuilding in unserem Netzwerk (>100 pro Monat)
+                    Verlinkung der Website mit anderen Websites – Linkbuilding in unserem Netzwerk (>100 pro Monat)
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="border-bottom border-danger py-2 h-100">
-                OnPage-SEO-Optimierung – kontinuierliche Optimierung der Website in technischer und inhaltlicher Hinsicht
+                    OnPage-SEO-Optimierung – kontinuierliche Optimierung der Website in technischer und inhaltlicher Hinsicht
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="border-bottom border-danger py-2 h-100">
-                Local SEO – wie separat beschrieben, „Local SEO“Eintrag in diversen Verzeichnissen
+                    Local SEO – wie separat beschrieben, „Local SEO“Eintrag in diversen Verzeichnissen
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="border-bottom border-danger py-2 h-100">
-                SEO- und ROI-Berichte
+                    SEO- und ROI-Berichte
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="border-bottom border-danger py-2 h-100">
-                Support & Beratung (Telefon / E-Mail / Chat), nicht bei Medium
+                    Support & Beratung (Telefon / E-Mail / Chat), nicht bei Medium
                 </div>
             </div>
         </div>
@@ -165,7 +165,7 @@ get_header();
         <div class="row py-5 m-0 text-white">
             <div class="col-lg-8 mx-auto text-center">
                 <h5 class="font-medium mb-4">Now you might want to start affiliate marketing yourself but don't know where to start. Don't worry; We are here for you.</h4>
-                <button class="btn theme-primary-button">Get In Touch</button>
+                    <button class="btn theme-primary-button cta-button">Get In Touch</button>
             </div>
         </div>
     </div>

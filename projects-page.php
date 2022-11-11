@@ -71,7 +71,7 @@ get_header();
             <div class="text-center">
                 <h2 class="font-medium">Online-Shops – Show-Cases wurden zu Selbstläufern</h2>
                 <p>Am Anfang unserer Tätigkeit, im Online-Marketing und eCommerce, wollten wir unseren Kunden beweisen wie gut wir sind. Deshalb schufen wir eigene Online-Shops und begannen sie zu vermarkten. Aus Show-Cases wurden Erfolge, so dass wir uns entschlossen haben diese weiter zu führen. Hier stellen wir sie Ihnen vor.</p>
-                <button class="btn theme-primary-button">in Kontakt kommen</button>
+                <button class="btn theme-primary-button cta-button">in Kontakt kommen</button>
             </div>
         </div>
     </div>

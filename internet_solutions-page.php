@@ -204,7 +204,7 @@ get_header();
         <div class="row py-5 m-0 text-white">
             <div class="col-lg-8 mx-auto text-center">
                 <h5 class="font-medium mb-4">Kontaktieren Sie uns noch heute, wenn Sie nach einer Agentur für Website-Design suchen, die Ihnen hilft, Ihr Unternehmen auf die nächste Stufe zu heben!</h4>
-                    <button class="btn theme-primary-button">In Kontakt kommen</button>
+                    <button class="btn theme-primary-button cta-button">In Kontakt kommen</button>
             </div>
         </div>
     </div>

@@ -65,7 +65,7 @@ get_header();
         <div class="row py-5 m-0 text-white">
             <div class="col-lg-8 mx-auto text-center">
                 <h5 class="font-medium mb-4">Jetzt möchten Sie vielleicht selbst mit dem Affiliate-Marketing beginnen, wissen aber nicht, wo Sie anfangen sollen. Mach dir keine Sorgen; Wir sind für Sie da.</h4>
-                <button class="btn theme-primary-button">In Kontakt kommen</button>
+                    <button class="btn theme-primary-button cta-button">In Kontakt kommen</button>
             </div>
         </div>
     </div>
@@ -149,47 +149,47 @@ get_header();
         <div class="row">
             <div class="col-md-6">
                 <div class="border-bottom border-danger py-2 h-100">
-                Aktive Betreuung von Affiliate-Partnern
+                    Aktive Betreuung von Affiliate-Partnern
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="border-bottom border-danger py-2 h-100">
-                Suche und Aktivierung neuer Affiliate-Partner
+                    Suche und Aktivierung neuer Affiliate-Partner
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="border-bottom border-danger py-2 h-100">
-                Pflege und Wartung der Provisionen
+                    Pflege und Wartung der Provisionen
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="border-bottom border-danger py-2 h-100">
-                Erstellung von zusätzlichem Werbematerial
+                    Erstellung von zusätzlichem Werbematerial
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="border-bottom border-danger py-2 h-100">
-                Analysen und Vorschläge für mögliche Sonderaktionen
+                    Analysen und Vorschläge für mögliche Sonderaktionen
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="border-bottom border-danger py-2 h-100">
-                Durchführung von Sonderaktionen (1)
+                    Durchführung von Sonderaktionen (1)
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="border-bottom border-danger py-2 h-100">
-                Abrechnung von Provisionen und Netzentgelt
+                    Abrechnung von Provisionen und Netzentgelt
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="border-bottom border-danger py-2 h-100">
-                Affiliate-Berichterstattung
+                    Affiliate-Berichterstattung
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="border-bottom border-danger py-2 h-100">
-                Support & Beratung (Telefon / E-Mail / Chat)
+                    Support & Beratung (Telefon / E-Mail / Chat)
                 </div>
             </div>
         </div>
@@ -202,7 +202,7 @@ get_header();
         <div class="row py-5 m-0 text-white">
             <div class="col-lg-8 mx-auto text-center">
                 <h5 class="font-medium mb-4">Jetzt möchten Sie vielleicht selbst mit dem Affiliate-Marketing beginnen, wissen aber nicht, wo Sie anfangen sollen. Mach dir keine Sorgen; Wir sind für Sie da.</h4>
-                <button class="btn theme-primary-button">In Kontakt kommen</button>
+                    <button class="btn theme-primary-button cta-button">In Kontakt kommen</button>
             </div>
         </div>
     </div>
