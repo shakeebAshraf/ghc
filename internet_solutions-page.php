@@ -32,7 +32,7 @@ get_header();
         <p class="mx-auto">Eigene Website erstellen Schweiz ist keine leichte Aufgabe, besonders wenn Sie kein Experte sind. Es erfordert jahrelange Erfahrung, ein Team und professionelle Designer.</p>
         <p class="mx-auto">Wir erstellen eine Website Schweiz, die nicht nur optisch ansprechend ist, sondern auch die Werte und Mission Ihres Unternehmens widerspiegelt.</p>
         <p class="mx-auto">Unsere Agentur für Website-Design glaubt, dass gutes Design für jeden zugänglich sein sollte. Wir arbeiten mit Unternehmen jeder Größe zusammen, um Websites zu erstellen, die individuell, erschwinglich und effektiv sind.</p>
-        <p class="mx-auto">Wir verstehen, dass Ihre Website ein wichtiger Bestandteil Ihrer <a href="#" class="text-danger font-weight-bold text-decoration-none">Marketingstrategie</a> ist, und wir setzen uns dafür ein, Sie beim Erreichen Ihrer Ziele zu unterstützen.</p>
+        <p class="mx-auto">Wir verstehen, dass Ihre Website ein wichtiger Bestandteil Ihrer <a href="https://www.ghc-gmbh.ch/google-ads-performance-ads/" class="text-danger font-weight-bold text-decoration-none">Marketingstrategie</a> ist, und wir setzen uns dafür ein, Sie beim Erreichen Ihrer Ziele zu unterstützen.</p>
     </div>
 </section>
 
@@ -86,7 +86,7 @@ get_header();
                             <div class="card-body py-0">
                                 <p>Eine Website ist wie ein digitales Schaufenster für Unternehmen. Es muss ansprechend gestaltet und einfach zu navigieren sein, damit potenzielle Kunden bleiben und stöbern möchten.</p>
                                 <p>Besucher sollten sich ohne Probleme intuitiv auf Ihrer Seite zurechtfinden können. Verwenden Sie Dropdown-Menüs und Breadcrumbs, um Besuchern die Orientierung zu erleichtern.</p>
-                                <p><a href="#" class="text-danger font-weight-bold text-decoration-none">GHC GmbH Website</a> erstellen Schweiz, die einfach zu navigieren und zu verstehen ist, um die Benutzererfahrung zu verbessern und dafür zu sorgen, dass die Leute wiederkommen.</p>
+                                <p><a href="https://www.ghc-gmbh.ch/" class="text-danger font-weight-bold text-decoration-none">GHC GmbH Website</a> erstellen Schweiz, die einfach zu navigieren und zu verstehen ist, um die Benutzererfahrung zu verbessern und dafür zu sorgen, dass die Leute wiederkommen.</p>
                             </div>
                         </div>
                     </div>
@@ -141,7 +141,7 @@ get_header();
                         </div>
                         <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
                             <div class="card-body py-0">
-                                <p>Ein weiterer wichtiger Aspekt des Website-Designs ist die <a href="#" class="text-danger font-weight-bold text-decoration-none">Suchmaschinenoptimierung</a> (SEO). Dies bezieht sich auf den Prozess der Optimierung Ihrer Website für die Suchmaschinen, damit sie in den Suchergebnissen höher eingestuft wird.</p>
+                                <p>Ein weiterer wichtiger Aspekt des Website-Designs ist die <a href="https://www.ghc-gmbh.ch/suchmaschinen-optimierung-seo/" class="text-danger font-weight-bold text-decoration-none">Suchmaschinenoptimierung</a> (SEO). Dies bezieht sich auf den Prozess der Optimierung Ihrer Website für die Suchmaschinen, damit sie in den Suchergebnissen höher eingestuft wird.</p>
                                 <p>Sie können mehrere Dinge tun, z. B. die richtigen Schlüsselwörter und Wortgruppen auf Ihrer Website verwenden, damit Nutzer sie finden können, wenn sie nach Unternehmen wie Ihrem suchen.</p>
                                 <p>Wenn Ihre Website nicht optimiert ist, wird es für potenzielle Kunden sehr schwierig, Sie zu finden. GHC GmbH Website erstellen Schweiz die suchmaschinenoptimiert sind, damit Ihre Seite die Sichtbarkeit erhält, die sie verdient.</p>
                             </div>

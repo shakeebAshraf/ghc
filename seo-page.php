@@ -34,7 +34,7 @@ get_header();
             <h2 class="h2 font-medium">Erhöhte Sichtbarkeit durch die GHC GmbH</h2>
             <p>Als Unternehmen ist eines Ihrer Hauptziele die Erhöhung Ihrer Online-Sichtbarkeit und SEO-Optimierung. Dies kann unabhängig voneinander schwierig sein, insbesondere wenn Sie mit grösseren Unternehmen mit mehr Ressourcen konkurrieren.</p>
             <p>Die GHC GmbH, eine Suchmaschinen Optimierungs Agentur, kann Ihnen helfen, Ihre Sichtbarkeit zu erhöhen, indem sie Ihre Website für Suchmaschinen optimiert.</p>
-            <p>Wir recherchieren die richtigen Schlüsselwörter für Ihr Unternehmen und Ihre Branche und integrieren sie dann in <span class="text-danger font-weight-bold">Ihre Website</span>, damit Sie in den Suchergebnissen höher eingestuft werden.</p>
+            <p>Wir recherchieren die richtigen Schlüsselwörter für Ihr Unternehmen und Ihre Branche und integrieren sie dann in <a class="text-danger text-decoration-none font-weight-bold" href="https://www.ghc-gmbh.ch/webseiten/">Ihre Website</a>, damit Sie in den Suchergebnissen höher eingestuft werden.</p>
         </div>
         <div class="col-md-6 justify-content-center align-self-center my-4 pl-md-5">
             <img src="<?php echo get_template_directory_uri() . '/assets/images/increased-visibility.jpg' ?>" alt="">
@@ -53,7 +53,7 @@ get_header();
     <div class="row">
         <div class="col-md-6 justify-content-center align-self-center my-4 pr-md-5">
             <h2 class="h2 font-medium">Organisches Wachstum</h2>
-            <p>Als Unternehmen möchten Sie organisch wachsen. Das bedeutet, neue Kunden zu gewinnen, ohne Geld für <span class="font-weight-bold text-danger">Werbung</span> ausgeben zu müssen. Eine SEO Agentur Schweiz wie die <span class="font-weight-bold text-danger">GHC GmbH</span> kann Ihnen helfen, organisch zu wachsen, indem sie die SEO Ihrer Website verbessert.</p>
+            <p>Als Unternehmen möchten Sie organisch wachsen. Das bedeutet, neue Kunden zu gewinnen, ohne Geld für <span class="text-danger font-weight-bold">Werbung</span> ausgeben zu müssen. Eine SEO Agentur Schweiz wie die <a href="https://www.ghc-gmbh.ch/" class="text-danger text-decoration-none font-weight-bold">GHC GmbH</a> kann Ihnen helfen, organisch zu wachsen, indem sie die SEO Ihrer Website verbessert.</p>
             <p>Wir helfen Ihnen, in den Suchergebnissen höher zu ranken, um mehr organischen Traffic zu erhalten. Wir optimieren Ihre Website auch für Conversions, damit Sie diesen Traffic in Kunden umwandeln können.</p>
         </div>
         <div class="col-md-6 justify-content-center align-self-center my-4 pl-md-5">
@@ -86,13 +86,13 @@ get_header();
         <div class="col-md-6 col-lg-4 p-5">
             <span class="count-service">05</span>
             <h4>Lokales SEO</h4>
-            <p>Lokales SEO ist wichtig für Unternehmen, die ein bestimmtes geografisches Gebiet bedienen. Die GHC GmbH hilft Ihnen, Ihre Website und Online-Einträge für die lokale Suche zu optimieren, um mehr Kunden aus Ihrem Zielgebiet zu gewinnen.</p>
+            <p><a class="text-danger text-decoration-none font-weight-bold" href="https://www.ghc-gmbh.ch/local-seo/">Lokales SEO</a> ist wichtig für Unternehmen, die ein bestimmtes geografisches Gebiet bedienen. Die GHC GmbH hilft Ihnen, Ihre Website und Online-Einträge für die lokale Suche zu optimieren, um mehr Kunden aus Ihrem Zielgebiet zu gewinnen.</p>
             <p>Wir richten ein Google-Unternehmensprofil, NAP-Einreichungen, lokale Verzeichnisse und viele andere Dinge ein, die Ihrem Unternehmen helfen können, bei den relevanten Suchanfragen lokal zu ranken.</p>
         </div>
         <div class="col-md-6 col-lg-4 p-5">
             <span class="count-service">06</span>
             <h4>Inhaltsstrategie</h4>
-            <p>Inhalt ist einer der wichtigsten Ranking-Faktoren von SEO. Die GHC GmbH hilft Ihnen bei der Entwicklung einer Content-Strategie, die Keyword-Recherche, Konkurrenzanalyse und die Erstellung hochwertiger Inhalte umfasst, die Ihr Suchmaschinen-Ranking verbessern und mehr Besucher auf Ihre Website locken.</p>
+            <p>Inhalt ist einer der wichtigsten Ranking-Faktoren von SEO. Die GHC GmbH hilft Ihnen bei der Entwicklung einer Content-Strategie, die Keyword-Recherche, <a class="text-danger text-decoration-none font-weight-bold" target="_blank" href="https://www.entrepreneur.com/encyclopedia/competitive-analysis">Konkurrenzanalyse</a> und die Erstellung hochwertiger Inhalte umfasst, die Ihr Suchmaschinen-Ranking verbessern und mehr Besucher auf Ihre Website locken.</p>
         </div>
         <div class="col-md-6 col-lg-4 p-5">
             <span class="count-service">07</span>

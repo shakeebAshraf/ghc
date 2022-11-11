@@ -66,8 +66,8 @@ get_header();
     </div>
     <div class="row">
         <div class="col-md-12">
-            <p>Today I look after customers 360 degrees in eCommerce and online marketing, whether it&apos;s about the shopping solution, hosting or payment solutions. I see myself as a competent all-round consultant, coach and project manager.</p>
-            <p class="font-weight-bold">However, the central topic is online marketing, eCommerce and conversion and lead generation through <span class="text-danger">search engine optimization (SEO)</span> ,<span class="text-danger"> Google Ads &amp; Performance Ads (SEA)</span> .</p>
+            <p>Today I look after customers 360 degrees in eCommerce and online marketing, whether it&apos;s about the shopping solution, hosting or <a class="text-danger text-decoration-none" href="https://www.ghc-gmbh.ch/sicherheit/ab-herbst-2019-ist-die-strong-customer-authentication-notwendig/">payment</a> solutions. I see myself as a competent all-round consultant, coach and project manager.</p>
+            <p class="font-weight-bold">However, the central topic is online marketing, eCommerce and conversion and lead generation through <a class="text-danger text-decoration-none font-weight-bold" href="https://www.ghc-gmbh.ch/suchmaschinen-optimierung-seo/">search engine optimization (SEO)</a> ,<a href="https://www.ghc-gmbh.ch/google-ads-performance-ads/" class="text-danger text-decoration-none font-weight-bold"> Google Ads &amp; Performance Ads (SEA)</a> .</p>
             <p>For the various projects, I work together with experienced, top-class, selected partners.</p>
             <p class="font-weight-bold">“We are only at 10% of the possibilities that the Internet offers. Let&apos;s do it.&quot;</p>
         </div>

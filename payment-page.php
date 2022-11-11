@@ -39,7 +39,7 @@ get_header();
                 <li class="list-unstyled">Postfinance Card / E-Payment</li>
                 <li class="list-unstyled">Mobile Payment</li>
             </ul>
-            <p>Ein wichtiger Bestandteil von Payment-Solution im Internet sind die Risiko-Minimierung und Fraud-Protecion (Betrugs – Erkennung und -Verhinderung). Oft werden Sie bereits in die Zahlungsmodule für die Zahlungslösung im Shop integriert um schon vor der Bestellung für Sicherheit zu sorgen. Auch die rechtliche Seite sollte betrachtet werden, so zum Beispiel die <a href="#" class="text-danger font-weight-bold text-decoration-none">Strong-Customer-Authentication (SCA/PSD2)</a>. Ist die Bestellung erfolgt, kann auch noch ein Zahlungsausfall oder – Verzögerung drohen. Um diese zu verhindern kann man Inkasso-Lösungen nutzen.</p>
+            <p>Ein wichtiger Bestandteil von Payment-Solution im Internet sind die Risiko-Minimierung und Fraud-Protecion (Betrugs – Erkennung und -Verhinderung). Oft werden Sie bereits in die Zahlungsmodule für die Zahlungslösung im Shop integriert um schon vor der Bestellung für Sicherheit zu sorgen. Auch die rechtliche Seite sollte betrachtet werden, so zum Beispiel die <a href="https://www.ghc-gmbh.ch/sicherheit/ab-herbst-2019-ist-die-strong-customer-authentication-notwendig/" class="text-danger font-weight-bold text-decoration-none">Strong-Customer-Authentication (SCA/PSD2)</a>. Ist die Bestellung erfolgt, kann auch noch ein Zahlungsausfall oder – Verzögerung drohen. Um diese zu verhindern kann man Inkasso-Lösungen nutzen.</p>
         </div>
         <div class="col-md-6 justify-content-center align-self-center pl-md-5">
             <img src="<?php echo get_template_directory_uri() . '/assets/images/payment-solutions.jpg' ?>" alt="">

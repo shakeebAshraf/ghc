@@ -128,7 +128,7 @@ get_header();
         <div class="row py-5 m-0 text-white">
             <div class="col-lg-8 mx-auto text-center">
                 <h5 class="font-medium mb-4">Wir führen seit Jahren Sales-Funnels durch und setzen sie für unsere Kunden erfolgreich ein. Melden Sie sich bei uns, wenn Sie weitere Informationen benötigen oder ein Gespräch dazu führen möchten.</h4>
-                    <button class="btn theme-primary-button">In Kontakt kommen</button>
+                    <button class="btn theme-primary-button cta-button">In Kontakt kommen</button>
             </div>
         </div>
     </div>
