@@ -78,6 +78,30 @@
     margin: 0;
 }
 
+.landing-page-section {
+    background: url(../images/landing-page.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    margin: 0;
+}
+
+.contact-section {
+    background: url(../images/contact-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    margin: 0;
+}
+
+.sales-funnel-section {
+    background: url(../images/sales-funnel-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    margin: 0;
+}
+
 .services-section {
     margin: 90px 0;
 }
