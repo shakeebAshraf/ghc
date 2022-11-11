@@ -197,7 +197,7 @@ get_header();
         <div class="row py-5 m-0 text-white">
             <div class="col-lg-8 mx-auto text-center">
                 <h5 class="font-medium mb-4">Now you might want to start affiliate marketing yourself but don't know where to start. Don't worry; We are here for you.</h4>
-                    <button class="btn theme-primary-button">Get In Touch</button>
+                    <button class="btn theme-primary-button cta-button">Get In Touch</button>
             </div>
         </div>
     </div>

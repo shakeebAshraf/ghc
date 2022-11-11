@@ -28,7 +28,7 @@
 
 		<!-- NAVBAR -->
 		<header class="site-navbar bg-light">
-			<nav class="navbar  navbar-expand-lg navbar-light bg-light">
+			<nav class="navbar  container navbar-expand-lg navbar-light bg-light">
 				<a class="navbar-brand" href="#">
 					<h3 class="text-danger">GHC GmbH</h3>
 					<h6 class="text-dark">IT / Business Consultant</h6>

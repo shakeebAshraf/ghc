@@ -24,7 +24,7 @@ get_header();
                 <p class="font-white">Exactly the customers you need</p>
             </div>
             <div class="col-lg-4">
-                <img src="<?php echo get_template_directory_uri() . '/assets/images/bulb-header-icon.webp'?>" alt="">
+                <img src="<?php echo get_template_directory_uri() . '/assets/images/bulb-header-icon.webp' ?>" alt="">
             </div>
         </div>
     </div>
@@ -38,7 +38,7 @@ get_header();
                 <p>From zero to hundred. 360&#176;. For all matters related to project management & e-commerce. Successful and efficient.</p>
             </div>
             <div class="col-lg-3 text-center justify-content-center align-self-center">
-                <button class="btn theme-primary-button">Get In Touch</button>
+                <button class="btn theme-primary-button cta-button">Get In Touch</button>
             </div>
         </div>
     </div>
@@ -128,7 +128,7 @@ get_header();
             <div class="col-lg-8 mx-auto text-center">
                 <h2 class="font-medium">Start now with a free initial consultation!</h2>
                 <p>For new customers we conduct a free consultation. We analyze your concerns and suggest the best solutions.</p>
-                <button class="btn theme-primary-button">Request Free Advice Now</button>
+                <button class="btn theme-primary-button cta-button">Request Free Advice Now</button>
             </div>
         </div>
     </div>
@@ -172,5 +172,4 @@ get_header();
 </section>
 <?php
 get_footer(); ?>
-	 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2712.228452852147!2d8.097964215136237!3d47.17296352582623!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47901ff781c4e1b1%3A0x224a5fb7fdcdc535!2sJosef-M%C3%BCller-Weg%206%2C%206210%20Sursee%2C%20Switzerland!5e0!3m2!1sen!2s!4v1667548770976!5m2!1sen!2s" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" onload="this.width=screen.width;this.height=screen.height/2;"></iframe>
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2712.228452852147!2d8.097964215136237!3d47.17296352582623!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47901ff781c4e1b1%3A0x224a5fb7fdcdc535!2sJosef-M%C3%BCller-Weg%206%2C%206210%20Sursee%2C%20Switzerland!5e0!3m2!1sen!2s!4v1667548770976!5m2!1sen!2s" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" onload="this.width=screen.width;this.height=screen.height/2;"></iframe>
