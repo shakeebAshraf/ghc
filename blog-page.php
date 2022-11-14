@@ -43,7 +43,7 @@ get_header();
                             <div class="card-body">
                                 <h4 class="card-title"><?php the_title(); ?></h4>
                                 <p class="card-text"><?php the_excerpt(); ?></p>
-                                <a href="#" class=" btn bg-dark text-white">View</a>
+                                <a href="<?php the_permalink(); ?>" class=" btn bg-dark text-white">View</a>
                             </div>
                         </div>
                     </div>
@@ -57,8 +57,8 @@ get_header();
         </div>
     </div>
     <div class="text-center mt-4">
-                <button class="btn theme-primary-button">Show More</button>
-            </div>
+        <button class="btn theme-primary-button">Show More</button>
+    </div>
 </section>
 <?php
 get_footer(); ?>
