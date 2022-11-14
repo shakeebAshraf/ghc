@@ -19,9 +19,9 @@ get_header();
     <div class="container">
         <div class="row">
             <div class="col-lg-8 ">
-                <h1 class="h1 large-font font-white mb-4">Sales Funel -
-                    </br>High Quality Leads </h1>
-                <p class="font-white">Exactly the customers you need</p>
+                <h1 class="h1 large-font font-white mb-4">Sales Funnel –
+                    </br>Hochwertige Leads </h1>
+                <p class="font-white">Genau die Kunden die Sie brauchen</p>
             </div>
             <div class="col-lg-4">
                 <img src="<?php echo get_template_directory_uri() . '/assets/images/bulb-header-icon.webp' ?>" alt="">
@@ -34,8 +34,8 @@ get_header();
     <div class="container">
         <div class="row py-5 m-0 text-white">
             <div class="col-lg-9">
-                <h2 class="medium-font">Many skills for your IT project / e-commerce</h2>
-                <p>From zero to hundred. 360&#176;. For all matters related to project management & e-commerce. Successful and efficient.</p>
+                <h2 class="medium-font">IT Projektmanagemnet & E-Commerce</h2>
+                <p>Von null auf Hundert. 360°. Bei allen Belangen rund um IT Projektmanagement & E-Commerce. Erfolgreich und effizient.</p>
             </div>
             <div class="col-lg-3 text-center justify-content-center align-self-center">
                 <button class="btn theme-primary-button cta-button">Get In Touch</button>
@@ -49,8 +49,8 @@ get_header();
     <div class="container">
         <div class="row">
             <div class="col-lg-9">
-                <h1 class="medium-font">Many skills for your IT project / e-commerce</h1>
-                <p>As an IT project manager with deep technical and business know-how, I can offer you many things at once. Over 30 years of experience. Save the overhead and ask me first!</p>
+                <h1 class="medium-font">Viele Skills für Ihr IT Projekt / e-Commerce</h1>
+                <p>Als IT-Projektmanager mit tiefem technischen und viel Business Know-how kann ich Ihnen vieles auf einmal bieten. Über 30 Jahre Erfahrung. Sparen Sie den Overhead und fragen mich zuerst!</p>
             </div>
         </div>
     </div>
@@ -60,61 +60,61 @@ get_header();
                 <div class="col-12 col-md-6 col-lg-3 text-center p-2">
                     <div class="bg-gray h-100 p-4">
                         <img src="<?php echo get_template_directory_uri() . '/assets/images/it-icon.webp' ?>" alt="IT Project Management">
-                        <h3 class="small-font mt-3">IT Project Management</h3>
+                        <h3 class="small-font mt-3">IT Projekt management</h3>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3 text-center p-2">
                     <div class="bg-gray h-100 p-4">
                         <img src="<?php echo get_template_directory_uri() . '/assets/images/filter-icon.webp' ?>" alt="Sales Funnels">
-                        <h3 class="small-font mt-3">Sales Funnels</h3>
+                        <h3 class="small-font mt-3">Sales Funnel</h3>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3 text-center p-2">
                     <div class="bg-gray h-100 p-4">
                         <img src="<?php echo get_template_directory_uri() . '/assets/images/adwords-icon.webp' ?>" alt="Google Ads- Performance">
-                        <h3 class="small-font mt-3">Google ads - Performance ads</h3>
+                        <h3 class="small-font mt-3">Google Ads – Performance Ads</h3>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3 text-center p-2">
                     <div class="bg-gray h-100 p-4">
                         <img src="<?php echo get_template_directory_uri() . '/assets/images/startup-icon.webp' ?>" alt="SEO">
-                        <h3 class="small-font mt-3">Search Engine Optimization</h3>
+                        <h3 class="small-font mt-3">Suchmaschinen-Optimierung</h3>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3 text-center p-2">
                     <div class="bg-gray h-100 p-4">
                         <img src="<?php echo get_template_directory_uri() . '/assets/images/content-creator-icon.webp' ?>" alt="Digital content creation">
-                        <h3 class="small-font mt-3">Digital Content Creation</h3>
+                        <h3 class="small-font mt-3">Digital Content Erstellung</h3>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3 text-center p-2">
                     <div class="bg-gray h-100 p-4">
                         <img src="<?php echo get_template_directory_uri() . '/assets/images/megaphone-icon.webp' ?>" alt="Affiliate Marketing">
-                        <h3 class="small-font mt-3">Affiliate Marketing</h3>
+                        <h3 class="small-font mt-3">Affiliate-Marketing</h3>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3 text-center p-2">
                     <div class="bg-gray h-100 p-4">
                         <img src="<?php echo get_template_directory_uri() . '/assets/images/email-marketing-icon.webp' ?>" alt="Email Marketing">
-                        <h3 class="small-font mt-3">Email Marketing</h3>
+                        <h3 class="small-font mt-3">Email-Marketing</h3>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3 text-center p-2">
                     <div class="bg-gray h-100 p-4">
                         <img src="<?php echo get_template_directory_uri() . '/assets/images/web-page-icon.webp' ?>" alt="Landing page">
-                        <h3 class="small-font mt-3">Landing Pages</h3>
+                        <h3 class="small-font mt-3">Landingpages</h3>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 text-center p-2">
                     <div class="bg-gray h-100 p-4">
                         <img src="<?php echo get_template_directory_uri() . '/assets/images/browser-icon.webp' ?>" alt="Web Pages">
-                        <h3 class="small-font mt-3">Web Pages</h3>
+                        <h3 class="small-font mt-3">Webseiten</h3>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 text-center p-2">
                     <div class="bg-light h-100 p-4">
                         <img src="<?php echo get_template_directory_uri() . '/assets/images/valid-icon.webp' ?>" alt="Payment Solutions">
-                        <h4 class="small-font mt-3">Payment Solutions</h4>
+                        <h4 class="small-font mt-3">Payment-Lösungen</h4>
                     </div>
                 </div>
             </div>
@@ -126,9 +126,10 @@ get_header();
     <div class="container">
         <div class="row py-5 m-0 text-white">
             <div class="col-lg-8 mx-auto text-center">
-                <h2 class="font-medium">Start now with a free initial consultation!</h2>
-                <p>For new customers we conduct a free consultation. We analyze your concerns and suggest the best solutions.</p>
-                <button class="btn theme-primary-button cta-button">Request Free Advice Now</button>
+                <h2 class="font-medium">Jetzt mit einer kostenlosen Erstberatung starten!
+                </h2>
+                <p>Für neue Kunden führen wir einen gratis Beratung durch. Wir analysieren Ihre Anliegen und schlagen Ihnen die besten Lösungen vor.</p>
+                <button class="btn theme-primary-button cta-button">Jetzt kostenlose Beratung anfordern!</button>
             </div>
         </div>
     </div>
@@ -138,11 +139,12 @@ get_header();
     <div class="container">
         <div class="row">
             <div class="col-lg-9">
-                <h1 class="text-dark font-weight-bold">Articles about online marketing and IT projects!</h1>
-                <p>The online marketing business is very exciting in all respects. A good basis for this is knowledge of IT projects. Read tips, news and important insider knowledge here.</p>
+                <h1 class="text-dark font-weight-bold">Artikel rund um Online-Marketing und IT-Projekte!
+                </h1>
+                <p>Das Online-Marketing Geschäft ist in allen Belangen sehr spannend. Eine gute Basis dafür sind auch Kenntnisse in IT-Projekten. Lesen Sie hier Tipps, News und wichtiges Insiderwissen dazu.</p>
             </div>
             <div class="col-lg-3 text-right justify-content-center align-self-center">
-                <button class="btn theme-primary-button">Show All</button>
+                <a href="<?php echo site_url() . '/blog/' ?>" class="btn theme-primary-button">Show All</a>
             </div>
         </div>
         <div class="row justify-content-between">

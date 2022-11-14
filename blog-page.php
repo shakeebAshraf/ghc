@@ -28,12 +28,15 @@ get_header();
                 <h1 class="text-dark font-weight-bold">Articles about online marketing and IT projects!</h1>
                 <p>The online marketing business is very exciting in all respects. A good basis for this is knowledge of IT projects. Read tips, news and important insider knowledge here.</p>
             </div>
-            <div class="col-lg-3 text-right justify-content-center align-self-center">
+            <!-- <div class="col-lg-3 text-right justify-content-center align-self-center">
                 <button class="btn theme-primary-button">Show All</button>
-            </div>
+            </div> -->
         </div>
         <div class="row justify-content-between">
-            <?php $the_query = new WP_Query(array('post_type' => 'post', 'posts_per_page' => 6,)); ?>
+            <?php $the_query = new WP_Query(array(
+                'post_type' => 'post', 'posts_per_page' => 6, 'orderby' => 'date',
+                'order' => 'DESC',
+            )); ?>
             <?php if ($the_query->have_posts()) : ?>
                 <?php while ($the_query->have_posts()) : $the_query->the_post(); ?>
                     <?php $featured_img_url = get_the_post_thumbnail_url(get_the_ID(), 'full'); ?>
@@ -57,6 +60,7 @@ get_header();
         </div>
     </div>
     <div class="text-center mt-4">
+        <?php the_posts_pagination(); ?>
         <button class="btn theme-primary-button">Show More</button>
     </div>
 </section>

@@ -18,7 +18,7 @@ get_header();
 <div class="about-section jumbotron jumbotron-fluid">
     <div class="container py-5 my-5">
         <div class="text-center">
-            <h1 class="h1 large-font font-white mb-4">About Us</h1>
+            <h1 class="h1 large-font font-white mb-4">Über uns</h1>
         </div>
     </div>
 </div>
@@ -26,8 +26,8 @@ get_header();
 <section class="container my-5">
     <div class="row">
         <div class="col-md-6 justify-content-center align-self-center my-4 pr-md-5">
-            <h2 class="h2 font-medium">Full Service Agency for Websites, SEO & eCommerce</h1>
-                <p>GHC GmbH is an online marketing agency and a consulting company specializing in the field of eCommerce. Our company headquarters are in beautiful Sursee, in the middle of Switzerland. We support companies on their way to eCommerce. From the first hour to continuous support and marketing.</p>
+            <h2 class="h2 font-medium">Full-Service-Agentur für Websites, SEO & eCommerce</h1>
+                <p>Die GHC GmbH ist eine Online-Marketing-Agentur und ein Beratungsunternehmen spezialisiert auf den Bereich eCommerce. Unser Firmensitz liegt im schönen Sursee, mitten in der Schweiz. Wir betreuen Unternehmen auf ihrem Weg in den eCommerce. Von der ersten Stunde bis hin zu einer kontinuierlichen Betreuung und Vermarktung.</p>
         </div>
         <div class="col-md-6 justify-content-center align-self-center my-4 pl-md-5">
             <img src="<?php echo get_template_directory_uri() . '/assets/images/ab1.jpg' ?>" alt="">
@@ -38,14 +38,14 @@ get_header();
             <img src="<?php echo get_template_directory_uri() . '/assets/images/ab2.jpg' ?>" alt="">
         </div>
         <div class="col-md-6 justify-content-center align-self-center my-4 pl-md-5">
-            <h2 class="h2 font-medium">What We Do?</h2>
-            <p>We can advise and support companies that want to expand their business activities online in all matters right from the start. We can help companies with existing online marketing to optimize it. We can draw on many years of experience in the areas of information technology (IT), eCommerce, business administration, marketing, online marketing, public relations and entrepreneurship. The core of our work are concepts and implementation of the online marketing of customer products via online shops and the entire range of marketing channels, including technical implementation.</p>
+            <h2 class="h2 font-medium">Was wir tun?</h2>
+            <p>Unternehmen die ihre Geschäftstätigkeiten online erweitern möchten, können wir von Anfang an in allen Belangen beraten und betreuen. Unternehmen, mit bestehender Online-Vermarktung, können wir helfen zu optimieren. Dabei können wir auf langjährige Erfahrung in den Bereichen Informationstechnologie (IT), eCommerce, Betriebswirtschaft, Marketing, Online-Marketing, Public Relations und Unternehmertum zurückgreifen. Kern unserer Arbeiten sind Konzepte und Durchführung der Online-Vermarktung von Kundenprodukten über Online-Shops und der ganzen Palette an Marketing-Kanälen, inkl. technischer Umsetzung.</p>
         </div>
     </div>
     <div class="row">
         <div class="col-md-6 justify-content-center align-self-center my-4 pr-md-5">
-            <h2 class="h2 font-medium">What We Create?</h2>
-            <p>In practice, this means the creation of business concepts, business plans, selection of suitable software/online shops including installation, setup, connections to suitable ERP solutions. The aim is to find an optimal business process for the customer, with which he can market his products online and at the same time carry out the fulfillment. In other words, depicts a complete business process. In addition, after the process has been set up, we support the economic, marketing-oriented and technical optimization with the aim of profitability for the customer.</p>
+            <h2 class="h2 font-medium">Was wir schaffen?</h2>
+            <p>Praktisch heisst das, die Erstellung von Business-Konzepten, Business-Plänen, Auswahl geeigneter Software/Online-Shops inkl., Installation, Einrichtung, Anbindungen an geeignete ERP-Lösungen. Ziel ist einen optimalen Geschäftsprozess für den Kunden zu finden, mit dem er seine Produkte online vermarkten kann und gleichzeitig das Fulfillment ausführt. Also einen kompletten Geschäftsprozess abbildet. Darüber hinaus unterstützen wir, nach dem Aufbau des Prozesses, die betriebswirtschaftliche, marketingorientierte und technische Optimierung mit dem Ziel der Profitabilität für den Kunden.</p>
         </div>
         <div class="col-md-6 justify-content-center align-self-center my-4 pl-md-5">
             <img src="<?php echo get_template_directory_uri() . '/assets/images/ab3.jpg' ?>" alt="">
@@ -53,12 +53,12 @@ get_header();
     </div>
     <div class="row">
         <div class="col-md-6 justify-content-center align-self-center my-4 pr-md-5">
-            <h2 class="h2 font-medium">Founder and CEO</h2>
-            <p class="font-weight-bold">Marketing has always been my passion.</p>
-            <p>Gordian Hense completed his studies at the Munich University of Applied Sciences in 1987 in the field of industrial engineering with a diploma. The main subject of the course was marketing.</p>
-            <p>Since that time I have worked in many areas, but always related to marketing, in many positions and industries. I've been self-employed in Switzerland since 2007, and since 2016 I've been CEO of GHC GmbH in the field of online / eCommerce marketing. I appreciate the rapid development, the opportunity to achieve great success and to work with nice and great people.</p>
-            <p>In 1992 I set up my first online shop with FileMaker (database), Lasso (LassoSoft, script language) and a hosting provider in Seattle "ForestNet" USA and sold software about it at the time. There were no hosting providers in Europe then, and PHP and MySQL were also in their infancy. That left a deep impression on me and showed me the possibilities of the internet.</p>
-            <p>Know-how – Industry experience in health, optics, metal construction, mechanical engineering, chemicals, automotive, IT industry, logistics, marketing and more.</p>
+            <h2 class="h2 font-medium">Gründer und CEO</h2>
+            <p class="font-weight-bold">Marketing war schon immer meine Leidenschaft.</p>
+            <p>Gordian Hense hat im Jahr 1987 sein Studium an der Fachhochschule München im Bereich Wirtschaftsingenieurwesen mit Diplom abgeschlossen. Schwerpunktthema des Studiums war Marketing.</p>
+            <p>Seit dieser Zeit habe ich in vielen Bereichen, immer aber mit dem Marketing verbunden, in vielen Positionen und Branchen gearbeitet. Seit 2007 bin ich in der Schweiz selbständig, seit 2016 bis heute CEO der GHC GmbH im Thema Online / eCommerce Marketing. Ich schätze die rasante Entwicklung, die Möglichkeit grosse Erfolge zu erreichen und mit netten und tollen Menschen zusammen zu arbeiten.</p>
+            <p>Im Jahr 1992 habe ich meinen ersten Online-Shop mit FileMaker (Datenbank), Lasso (LassoSoft, Scriptsprache) und einem Hosting-Provider in Seattle „ForestNet“ USA aufgebaut und damals Software darüber verkauft. In Europa gab es da noch keine Hosting-Provider, auch PHP und MySQL war in den Kinderschuhen. Das hat mich tief geprägt und die Möglichkeiten des Internet aufgezeigt.</p>
+            <p>Know How – Branchenerfahrung in Gesundheit, Optik, Metallbau, Maschinenbau, Chemie, Automobil, IT-Industrie, Logistik, Marketing u.a. mehr.</p>
         </div>
         <div class="col-md-6 justify-content-center align-self-center my-4 pl-md-5">
             <img src="<?php echo get_template_directory_uri() . '/assets/images/ceo.jpg' ?>" alt="">
@@ -66,10 +66,10 @@ get_header();
     </div>
     <div class="row">
         <div class="col-md-12">
-            <p>Today I look after customers 360 degrees in eCommerce and online marketing, whether it&apos;s about the shopping solution, hosting or <a class="text-danger text-decoration-none" href="https://www.ghc-gmbh.ch/sicherheit/ab-herbst-2019-ist-die-strong-customer-authentication-notwendig/">payment</a> solutions. I see myself as a competent all-round consultant, coach and project manager.</p>
-            <p class="font-weight-bold">However, the central topic is online marketing, eCommerce and conversion and lead generation through <a class="text-danger text-decoration-none font-weight-bold" href="https://www.ghc-gmbh.ch/suchmaschinen-optimierung-seo/">search engine optimization (SEO)</a> ,<a href="https://www.ghc-gmbh.ch/google-ads-performance-ads/" class="text-danger text-decoration-none font-weight-bold"> Google Ads &amp; Performance Ads (SEA)</a> .</p>
-            <p>For the various projects, I work together with experienced, top-class, selected partners.</p>
-            <p class="font-weight-bold">“We are only at 10% of the possibilities that the Internet offers. Let&apos;s do it.&quot;</p>
+            <p>Heute betreue ich Kunden 360 Grad im eCommerce und Online-Marketing, ob es um die Shopping-Lösung, das Hosting oder <a class="text-danger text-decoration-none" href="https://www.ghc-gmbh.ch/sicherheit/ab-herbst-2019-ist-die-strong-customer-authentication-notwendig/">payment</a> Solutions geht. Ich verstehe mich als kompetenten Allround Berater, Coach und Projektmanager.</p>
+            <p class="font-weight-bold">Zentrales Thema nimmt aber die Online Vermarktung, eCommerce und die Conversion und Lead-Gewinnung durch <a class="text-danger text-decoration-none font-weight-bold" href="https://www.ghc-gmbh.ch/suchmaschinen-optimierung-seo/">search engine optimization (SEO)</a> ,<a href="https://www.ghc-gmbh.ch/google-ads-performance-ads/" class="text-danger text-decoration-none font-weight-bold"> Google Ads &amp; Performance Ads (SEA)</a> ein.</p>
+            <p>Für die diversen Projekte arbeite ich mit erfahrenen, hochkarätigen, ausgewählten Partnern zusammen.</p>
+            <p class="font-weight-bold">„Wir stehen erst bei 10% der Möglichkeiten, die das Internet bietet. Packen wir es an“.</p>
         </div>
     </div>
 </section>

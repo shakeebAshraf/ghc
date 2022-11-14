@@ -44,21 +44,20 @@ get_header();
 
 				<div class="col-md-6 col-lg-3 mx-md-auto pt-lg-5 pt-md-3 text-center">
 					<div style="position: sticky; top:40px;">
-					<h4>Abonnieren Sie wöchentliche Updates</h4>
-					<form class="mt-4">
-						<div class="form-group">
-							<input type="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Email *">
-						</div>
-						<button type="submit" class="btn btn-dark w-100">Abonnieren</button>
-					</form>
+						<h4>Abonnieren Sie wöchentliche Updates</h4>
+						<form class="mt-4">
+							<div class="form-group">
+								<?php echo do_shortcode('[wpforms id="76" title="false"]'); ?>
+							</div>
+						</form>
 
-					<h5 class="mt-4">Teile diesen Artikel</h5>
-					<span>
-						<a class="head-text-icon mr-2" href="#" target="_blank"><i class="fab fa-facebook-f fb-icon fa-2x"></i></a>
-						<a class="head-text-icon mr-2" href="#" target="_blank"><i class="fab fa-twitter fa-2x"></i></a>
-						<a class="head-text-icon mr-2" href="#" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a>
-					</span>
-				</div>
+						<h5 class="mt-4">Teile diesen Artikel</h5>
+						<span>
+							<a class="head-text-icon mr-2" href="https://www.facebook.com/sharer/sharer.php?u=<?php the_permalink() ?>" target="_blank"><i class="fab fa-facebook-f fb-icon fa-2x"></i></a>
+							<a class="head-text-icon mr-2" href="https://twitter.com/intent/tweet?text=<?php the_permalink() ?>" target="_blank"><i class="fab fa-twitter fa-2x"></i></a>
+							<a class="head-text-icon mr-2" href="https://www.linkedin.com/cws/share?url=<?php the_permalink() ?>" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a>
+						</span>
+					</div>
 				</div>
 			</div>
 		</div>
