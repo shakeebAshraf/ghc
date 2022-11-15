@@ -28,7 +28,7 @@ get_header();
 							<h4>Abonnieren Sie wöchentliche Updates</h4>
 							<form class="mt-4">
 								<div class="form-group">
-									<?php echo do_shortcode('[wpforms id="76" title="false"]'); ?>
+									<?php echo do_shortcode('[wpforms id="2581"]'); ?>
 								</div>
 							</form>
 

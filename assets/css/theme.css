@@ -94,3 +94,22 @@ p {
     color: var(--font-dark);
     background-color: var(--bg-white);
 }
+
+.pagination span.page-numbers,
+.pagination a.page-numbers {
+    font-family: Poppins;
+    flex-grow: 0;
+    font-size: 18px;
+    line-height: normal;
+    letter-spacing: normal;
+    padding: 5px 15px;
+    text-align: left;
+    color: var(--font-white);
+    border-radius: 4px;
+    background-color: var(--bg-dark);
+    margin: 5px;
+}
+
+.pagination span.current {
+    background-color: var(--bg-red);
+}
