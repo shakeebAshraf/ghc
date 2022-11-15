@@ -18,12 +18,12 @@ get_header();
 <div class="banner-section jumbotron jumbotron-fluid">
     <div class="container">
         <div class="row">
-            <div class="col-lg-8 ">
+            <div class="col-lg-8 col-md-7 justify-content-center align-self-center">
                 <h1 class="h1 large-font font-white mb-4">Sales Funnel –
                     </br>Hochwertige Leads </h1>
                 <p class="font-white">Genau die Kunden die Sie brauchen</p>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-4 col-md-5 justify-content-center align-self-center">
                 <img src="<?php echo get_template_directory_uri() . '/assets/images/bulb-header-icon.webp' ?>" alt="">
             </div>
         </div>
@@ -35,7 +35,7 @@ get_header();
         <div class="row py-5 m-0 text-white">
             <div class="col-lg-9">
                 <h2 class="medium-font">IT Projektmanagemnet & E-Commerce</h2>
-                <p>Von null auf Hundert. 360°. Bei allen Belangen rund um IT Projektmanagement & E-Commerce. Erfolgreich und effizient.</p>
+                <p class="mb-lg-0">Von null auf Hundert. 360°. Bei allen Belangen rund um IT Projektmanagement & E-Commerce. Erfolgreich und effizient.</p>
             </div>
             <div class="col-lg-3 text-center justify-content-center align-self-center">
                 <button class="btn theme-primary-button cta-button">Get In Touch</button>
@@ -129,7 +129,7 @@ get_header();
                 <h2 class="font-medium">Jetzt mit einer kostenlosen Erstberatung starten!
                 </h2>
                 <p>Für neue Kunden führen wir einen gratis Beratung durch. Wir analysieren Ihre Anliegen und schlagen Ihnen die besten Lösungen vor.</p>
-                <button class="btn theme-primary-button cta-button">Jetzt kostenlose Beratung anfordern!</button>
+                <button class="btn theme-primary-button cta-button text-center">Jetzt kostenlose Beratung anfordern!</button>
             </div>
         </div>
     </div>
@@ -137,7 +137,7 @@ get_header();
 
 <section class="my-5">
     <div class="container">
-        <div class="row">
+        <div class="row pb-3">
             <div class="col-lg-9">
                 <h1 class="text-dark font-weight-bold">Artikel rund um Online-Marketing und IT-Projekte!
                 </h1>

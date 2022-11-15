@@ -21,8 +21,27 @@ get_header();
 		</div>
 		<div class="container py-5">
 			<div class="row">
-				<div class="col-md-4 col-lg-3 pt-5"><?php echo apply_shortcodes('[ez-toc]'); ?></div>
-				<div class="col-md-8 col-lg-6">
+				<div class="col-md-4 col-lg-3 pt-5">
+					<div style="position: sticky; top:40px;">
+						<?php echo apply_shortcodes('[ez-toc]'); ?>
+						<div class="text-center mt-5">
+							<h4>Abonnieren Sie wöchentliche Updates</h4>
+							<form class="mt-4">
+								<div class="form-group">
+									<?php echo do_shortcode('[wpforms id="76" title="false"]'); ?>
+								</div>
+							</form>
+
+							<h5 class="mt-4">Teile diesen Artikel</h5>
+							<span>
+								<a class="head-text-icon mr-2" href="https://www.facebook.com/sharer/sharer.php?u=<?php the_permalink() ?>" target="_blank"><i class="fab fa-facebook-f fb-icon fa-2x"></i></a>
+								<a class="head-text-icon mr-2" href="https://twitter.com/intent/tweet?text=<?php the_permalink() ?>" target="_blank"><i class="fab fa-twitter fa-2x"></i></a>
+								<a class="head-text-icon mr-2" href="https://www.linkedin.com/cws/share?url=<?php the_permalink() ?>" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a>
+							</span>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-8 col-lg-9">
 					<?php
 					the_post();
 
@@ -40,24 +59,6 @@ get_header();
 						comments_template();
 					endif;
 					?>
-				</div>
-
-				<div class="col-md-6 col-lg-3 mx-md-auto pt-lg-5 pt-md-3 text-center">
-					<div style="position: sticky; top:40px;">
-						<h4>Abonnieren Sie wöchentliche Updates</h4>
-						<form class="mt-4">
-							<div class="form-group">
-								<?php echo do_shortcode('[wpforms id="76" title="false"]'); ?>
-							</div>
-						</form>
-
-						<h5 class="mt-4">Teile diesen Artikel</h5>
-						<span>
-							<a class="head-text-icon mr-2" href="https://www.facebook.com/sharer/sharer.php?u=<?php the_permalink() ?>" target="_blank"><i class="fab fa-facebook-f fb-icon fa-2x"></i></a>
-							<a class="head-text-icon mr-2" href="https://twitter.com/intent/tweet?text=<?php the_permalink() ?>" target="_blank"><i class="fab fa-twitter fa-2x"></i></a>
-							<a class="head-text-icon mr-2" href="https://www.linkedin.com/cws/share?url=<?php the_permalink() ?>" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a>
-						</span>
-					</div>
 				</div>
 			</div>
 		</div>
