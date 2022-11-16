@@ -24,39 +24,39 @@ get_header();
 </div>
 
 <section class="container py-5">
-    <div class="row text-center px-5">
-        <h2 class="h2 font-medium mx-auto col-lg-6 mb-3">Webdesign Agentur Schweiz</h2>
+    <div class="text-md-center">
+        <h2 class="h2 font-medium px-0 mx-md-auto col-lg-6 mb-3">Webdesign Agentur Schweiz</h2>
         <p class="mx-auto">Wie jeder Unternehmer weiß, ist die Kundenakquise entscheidend für den Erfolg. Ein Website-Design kann die Online-Präsenz eines Unternehmens beeinflussen oder zerstören.</p>
         <p class="mx-auto">Im Zeitalter des Internets ist eine gut gestaltete Website eine der wichtigsten Möglichkeiten, Kunden zu gewinnen. Ihre Website ist oft der erste Eindruck, den potenzielle Kunden von Ihrem Unternehmen haben.</p>
         <p class="mx-auto">Deshalb ist es wichtig sicherzustellen, dass Ihre Website nicht nur gut gestaltet ist, sondern auch zu Ihrer Markenidentität passt.</p>
         <p class="mx-auto">Eigene Website erstellen Schweiz ist keine leichte Aufgabe, besonders wenn Sie kein Experte sind. Es erfordert jahrelange Erfahrung, ein Team und professionelle Designer.</p>
         <p class="mx-auto">Wir erstellen eine Website Schweiz, die nicht nur optisch ansprechend ist, sondern auch die Werte und Mission Ihres Unternehmens widerspiegelt.</p>
         <p class="mx-auto">Unsere Agentur für Website-Design glaubt, dass gutes Design für jeden zugänglich sein sollte. Wir arbeiten mit Unternehmen jeder Größe zusammen, um Websites zu erstellen, die individuell, erschwinglich und effektiv sind.</p>
-        <p class="mx-auto">Wir verstehen, dass Ihre Website ein wichtiger Bestandteil Ihrer <a href="https://www.ghc-gmbh.ch/google-ads-performance-ads/" class="text-danger font-weight-bold text-decoration-none">Marketingstrategie</a> ist, und wir setzen uns dafür ein, Sie beim Erreichen Ihrer Ziele zu unterstützen.</p>
+        <p class="mx-auto mb-0">Wir verstehen, dass Ihre Website ein wichtiger Bestandteil Ihrer <a href="https://www.ghc-gmbh.ch/google-ads-performance-ads/" target="_blank" class="medium-italic text-decoration-none">Marketingstrategie</a> ist, und wir setzen uns dafür ein, Sie beim Erreichen Ihrer Ziele zu unterstützen.</p>
     </div>
 </section>
 
 <section class="py-5 bg-light">
     <div class="container">
-        <div class="row text-center mb-4">
-            <h2 class="h2 font-medium mx-auto">Unsere Website-Design-Services</h2>
+        <div class="text-md-center mb-3">
+            <h2 class="h2 px-0 font-medium mx-auto">Unsere Website-Design-Services</h2>
         </div>
         <div class="row">
-            <div class="col-md-6 px-5 pt-2">
+            <div class="col-md-6 px-md-5 pt-2">
                 <h4>Benutzerdefiniertes Website-Design</h4>
                 <p>Unser Team von Designern wird mit Ihnen zusammenarbeiten, um eine benutzerdefinierte Website zu erstellen, die Ihre Markenidentität widerspiegelt und Ihren spezifischen Anforderungen entspricht.</p>
             </div>
-            <div class="col-md-6 px-5 pt-2">
+            <div class="col-md-6 px-md-5 pt-2">
                 <h4>E-Commerce-Website-Design</h4>
                 <p>Wir können Ihnen helfen, einen Online-Shop aufzubauen, der einfach zu bedienen ist und großartig aussieht. Wir können Ihnen auch Ratschläge zur Vermarktung Ihrer Produkte und zum Wachstum Ihres Online-Geschäfts geben.</p>
             </div>
-            <div class="col-md-6 px-5 pt-2">
+            <div class="col-md-6 px-md-5 pt-2">
                 <h4>WordPress-Webseite erstellen</h4>
-                <p>Wir sind darauf spezialisiert, schöne WordPress-Websites zu erstellen, die einfach zu bedienen und zu warten sind. Wir können Ihnen auch bei der Plugin-Entwicklung, Theme-Anpassung und Leistungsoptimierung helfen.</p>
+                <p class="mb-md-0">Wir sind darauf spezialisiert, schöne WordPress-Websites zu erstellen, die einfach zu bedienen und zu warten sind. Wir können Ihnen auch bei der Plugin-Entwicklung, Theme-Anpassung und Leistungsoptimierung helfen.</p>
             </div>
-            <div class="col-md-6 px-5 pt-2">
+            <div class="col-md-6 px-md-5 pt-2">
                 <h4>Wix webseite erstellen</h4>
-                <p>Wir können Ihnen helfen, eine <a href="https://www.wix.com/" class="text-danger font-weight-bold text-decoration-none">professionelle Website mit Wix</a>, einem der führenden Website-Baukästen, zu erstellen. Wir können Ihnen auch Anleitungen zur Maximierung Ihrer Nutzung der Plattform und zum Wachstum Ihres Online-Geschäfts geben.</p>
+                <p class="mb-0">Wir können Ihnen helfen, eine <a href="https://www.wix.com/" target="_blank" class="medium-italic text-decoration-none">professionelle Website mit Wix</a>, einem der führenden Website-Baukästen, zu erstellen. Wir können Ihnen auch Anleitungen zur Maximierung Ihrer Nutzung der Plattform und zum Wachstum Ihres Online-Geschäfts geben.</p>
             </div>
         </div>
     </div>
@@ -64,15 +64,15 @@ get_header();
 <section class="py-5">
     <div class="container">
         <div class="row">
-            <div class="col-md-4 px-5 pt-2">
+            <div class="col-md-4 px-md-5">
                 <h4 class="mb-3">Was unsere Website-Designs bieten</h4>
                 <p>Es gibt verschiedene Elemente, die unsere Website-Designs einzigartig und effektiv für Unternehmen machen.</p>
-                <p>Einige dieser Elemente sind</p>
+                <p class="mb-0">Einige dieser Elemente sind</p>
             </div>
-            <div class="col-md-8 px-5 pt-2">
+            <div class="col-md-8 px-0 px-md-5 pt-5 pt-md-0 pt-md-0">
                 <div id="accordion" class="myaccordion">
                     <div class="card border-bottom border-danger">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-header pt-0" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="d-flex align-items-center justify-content-between btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                     Einfach zu navigierendes Website-Design
@@ -86,7 +86,7 @@ get_header();
                             <div class="card-body py-0">
                                 <p>Eine Website ist wie ein digitales Schaufenster für Unternehmen. Es muss ansprechend gestaltet und einfach zu navigieren sein, damit potenzielle Kunden bleiben und stöbern möchten.</p>
                                 <p>Besucher sollten sich ohne Probleme intuitiv auf Ihrer Seite zurechtfinden können. Verwenden Sie Dropdown-Menüs und Breadcrumbs, um Besuchern die Orientierung zu erleichtern.</p>
-                                <p><a href="https://www.ghc-gmbh.ch/" class="text-danger font-weight-bold text-decoration-none">GHC GmbH Website</a> erstellen Schweiz, die einfach zu navigieren und zu verstehen ist, um die Benutzererfahrung zu verbessern und dafür zu sorgen, dass die Leute wiederkommen.</p>
+                                <p><a href="https://www.ghc-gmbh.ch/" target="_blank" class="medium-italic text-decoration-none">GHC GmbH Website</a> erstellen Schweiz, die einfach zu navigieren und zu verstehen ist, um die Benutzererfahrung zu verbessern und dafür zu sorgen, dass die Leute wiederkommen.</p>
                             </div>
                         </div>
                     </div>
@@ -141,7 +141,7 @@ get_header();
                         </div>
                         <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
                             <div class="card-body py-0">
-                                <p>Ein weiterer wichtiger Aspekt des Website-Designs ist die <a href="https://www.ghc-gmbh.ch/suchmaschinen-optimierung-seo/" class="text-danger font-weight-bold text-decoration-none">Suchmaschinenoptimierung</a> (SEO). Dies bezieht sich auf den Prozess der Optimierung Ihrer Website für die Suchmaschinen, damit sie in den Suchergebnissen höher eingestuft wird.</p>
+                                <p>Ein weiterer wichtiger Aspekt des Website-Designs ist die <a href="https://www.ghc-gmbh.ch/suchmaschinen-optimierung-seo/" target="_blank" class="medium-italic text-decoration-none">Suchmaschinenoptimierung</a> (SEO). Dies bezieht sich auf den Prozess der Optimierung Ihrer Website für die Suchmaschinen, damit sie in den Suchergebnissen höher eingestuft wird.</p>
                                 <p>Sie können mehrere Dinge tun, z. B. die richtigen Schlüsselwörter und Wortgruppen auf Ihrer Website verwenden, damit Nutzer sie finden können, wenn sie nach Unternehmen wie Ihrem suchen.</p>
                                 <p>Wenn Ihre Website nicht optimiert ist, wird es für potenzielle Kunden sehr schwierig, Sie zu finden. GHC GmbH Website erstellen Schweiz die suchmaschinenoptimiert sind, damit Ihre Seite die Sichtbarkeit erhält, die sie verdient.</p>
                             </div>
@@ -157,18 +157,18 @@ get_header();
     <div class="container">
         <div class="row">
             <div class="col-md-4">
-                <h4>Was die GHC GmbH von anderen Webdesign-Agenturen unterscheidet</h4>
+                <h4 class="mb-3 mb-md-0">Was die GHC GmbH von anderen Webdesign-Agenturen unterscheidet</h4>
             </div>
             <div class="col-md-8">
                 <p>Die GHC GmbH verfügt über ein Team erfahrener Designer, die mit Ihnen zusammenarbeiten, um eine Website zu erstellen, die nicht nur gut gestaltet ist, sondern auch zu Ihrer Markenidentität passt.</p>
-                <p>Bei der GHC GmbH verstehen wir die Bedeutung einer gut gestalteten Website. Wir sind spezialisiert auf Website erstellen Schweiz, das Designen von benutzerdefinierten Websites, Wix webseite erstellen und WordPress webseite erstellen, die schön und effektiv sind.</p>
+                <p class="mb-0">Bei der GHC GmbH verstehen wir die Bedeutung einer gut gestalteten Website. Wir sind spezialisiert auf Website erstellen Schweiz, das Designen von benutzerdefinierten Websites, Wix webseite erstellen und WordPress webseite erstellen, die schön und effektiv sind.</p>
             </div>
         </div>
-        <div class="row border-top border-left border-danger mt-3">
+        <div class="row border-top border-left border-danger mt-5 mx-1">
             <div class="col-sm text-center p-2 border-bottom border-right border-danger">
                 <div class="h-100 py-3">
                     <img src="<?php echo get_template_directory_uri() . '/assets/images/coding.png' ?>" width="48" alt="Affiliate Marketing">
-                    <h5 class="mt-3">Benutzerdefiniertes Website-Design</h5>
+                    <h5 class="mt-3 text-wrap">Benutzerdefiniertes Website-Design</h5>
                 </div>
             </div>
             <div class="col-sm text-center p-2 border-bottom border-right border-danger">

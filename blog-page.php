@@ -31,37 +31,36 @@ $args = array(
     'orderby' => 'date',
     'order' => 'DESC',
 ); ?>
-<section class="my-5">
+<section class="mt-5">
     <div class="container">
         <div class="row">
-            <div class="col-lg-9">
-                <h1 class="text-dark font-weight-bold">Articles about online marketing and IT projects!</h1>
-                <p>The online marketing business is very exciting in all respects. A good basis for this is knowledge of IT projects. Read tips, news and important insider knowledge here.</p>
+            <div class="col-lg-9 mx-auto text-md-center">
+                <h1 class="text-dark font-weight-bold">Artikel rund um Online-Marketing und IT-Projekte!</h1>
+                <p class="mb-0">Das Online-Marketing Geschäft ist in allen Belangen sehr spannend. Eine gute Basis dafür sind auch Kenntnisse in IT-Projekten. Lesen Sie hier Tipps, News und wichtiges Insiderwissen dazu.</p>
             </div>
-            <!-- <div class="col-lg-3 text-right justify-content-center align-self-center">
-                <button class="btn theme-primary-button">Show All</button>
-            </div> -->
         </div>
-        <div class="row justify-content-between">
+        <div class="row justify-content-between pt-5">
             <?php $the_query = new WP_Query($args); ?>
             <?php if ($the_query->have_posts()) : ?>
                 <?php while ($the_query->have_posts()) : $the_query->the_post(); ?>
                     <?php $featured_img_url = get_the_post_thumbnail_url(get_the_ID(), 'full'); ?>
-                    <div class="col-lg-4 mb-4">
-                        <div class="card mb-2 h-100">
+                    <div class="col-lg-4 col-md-6 mb-5">
+                        <div class="card mb-2 h-100 blog-image">
                             <img class="card-img-top" src="<?php echo $featured_img_url ?>" alt="">
-                            <div class="card-body">
-                                <h4 class="card-title"><?php the_title(); ?></h4>
+                            <div class="card-body d-flex flex-column">
+                                <a href="<?php the_permalink(); ?>" class="text-dark text-decoration-none">
+                                    <h4 class="card-title"><?php the_title(); ?></h4>
+                                </a>
                                 <p class="card-text"><?php the_excerpt(); ?></p>
-                                <a href="<?php the_permalink(); ?>" class=" btn bg-dark text-white">View</a>
+                                <a href="<?php the_permalink(); ?>" class="btn bg-dark text-white mt-auto">Mehr</a>
                             </div>
                         </div>
                     </div>
                 <?php endwhile;
                 $big = 999999999; ?>
         </div>
-        <div class="row justify-content-center text-center mt-4">
-            <div class="pagination py-4">
+        <div class="row justify-content-center text-center">
+            <div class="pagination pb-5">
                 <?php echo paginate_links(array(
                     'base' => str_replace($big, '%#%', esc_url(get_pagenum_link($big))),
                     'format' => '?paged=%#%',

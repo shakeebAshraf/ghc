@@ -32,7 +32,7 @@
 				<a class="navbar-brand" href="/">
 					<!-- <h3 class="text-danger">GHC GmbH</h3>
 					<h6 class="text-dark">IT / Business Consultant</h6> -->
-					<img width="239px" height="87px" src="<?php echo get_template_directory_uri() . '/assets/images/logo.png' ?>" alt="GHC GmbH">
+					<img width="180px" height="87px" src="<?php echo get_template_directory_uri() . '/assets/images/logo.png' ?>" alt="GHC GmbH">
 				</a>
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-icon"></span>

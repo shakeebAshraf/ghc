@@ -18,11 +18,11 @@
 
 
  	<div class="bg-light">
- 		<div class="container border-bottom border-danger">
- 			<div class="pt-5 mx-auto">
+ 		<div class="container p-5 border-bottom border-danger">
+ 			<div class="mx-auto">
  				<div class="row">
- 					<div class="col-lg-4 col-md-12 col-sm-12 pb-5">
- 						<div class="text-center text-lg-left">
+ 					<div class="col-lg-4 col-md-12 col-sm-12">
+ 						<div class="">
 							<?php dynamic_sidebar( 'first-footer-widget' ); ?>
 							<img class="mr-2" src="<?php echo get_template_directory_uri() . '/assets/images/linkedin.png' ?>" width="48px" alt="">
 							<img class="mr-2" src="<?php echo get_template_directory_uri() . '/assets/images/facebook.png' ?>" width="48px" alt="">
@@ -30,7 +30,7 @@
 							<img class="mr-2" src="<?php echo get_template_directory_uri() . '/assets/images/twitter.png' ?>" width="48px" alt="">
  						</div>
  					</div>
- 					<div class="col-lg-4 col-md-6 col-sm-6 mb-5">
+ 					<div class="col-lg-4 col-md-6 col-sm-6">
 					 <?php dynamic_sidebar( 'second-footer-widget' ); ?>
  					</div>
 
@@ -44,10 +44,10 @@
  			</div>
  		</div>
 		
-		 <div class="pt-3">
+		 <div class="py-4">
  				<div class="row">
  					<div class="col text-center">
- 						<p class="p">© Copyright <?php echo date("Y"); ?> GHC GmbH. All rights reserved.</p>
+ 						<p class="mb-0">© Copyright <?php echo date("Y"); ?> GHC GmbH. All rights reserved.</p>
  					</div>
  				</div>
  			</div>

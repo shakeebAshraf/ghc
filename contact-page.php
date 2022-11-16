@@ -24,11 +24,11 @@ get_header();
 </div>
 
 <section class="container py-5">
-    <div class=" row text-center">
-        <h2 class="text-medium col-lg-6 mx-auto">Impressum der GHC GmbH – Ihr Online Marketing Partner!</h2>
-        <p class="mx-auto">Wenn Sie weitere Fragen haben und Beratung wünschen, hinterlassen Sie bitte Ihre Daten und wir werden uns so schnell wie möglich mit Ihnen in Verbindung setzen.</p>
+    <div class="text-md-center">
+        <h2 class="text-medium col-lg-6 px-0 mx-md-auto pb-3">Impressum der GHC GmbH – Ihr Online Marketing Partner!</h2>
+        <p class="mx-auto mb-0">Wenn Sie weitere Fragen haben und Beratung wünschen, hinterlassen Sie bitte Ihre Daten und wir werden uns so schnell wie möglich mit Ihnen in Verbindung setzen.</p>
     </div>
-    <div class="row mt-5">
+    <div class="row my-5">
         <div class="col-md-6 justify-content-center align-self-center pr-md-5">
             <h2 class="h2 font-medium text-danger">In Kontakt kommen</h2>
             <h5 class="mb-3">Bei uns für jede Anfrage</h5>
@@ -51,13 +51,13 @@ get_header();
         <div class="col-md-6 pr-md-5">
             <p><span class="font-weight-bold">Phone: </span> +41 62 791 14 13</p>
             <p><span class="font-weight-bold">Fax: </span> +41 44 575 30 83</p>
-            <p><span class="font-weight-bold">Email: </span> gh @ ghc-gmbh.ch</p>
+            <p class="mb-0"><span class="font-weight-bold">Email: </span> gh @ ghc-gmbh.ch</p>
         </div>
     </div>
 
-    <div class="text-center">
+    <div class="text-center mt-5">
         <h4>Unterstützt durch</h4>
-        <a href="https://stadtbranche.ch/thema-online-marketing" class="text-danger text-decoration-none">StadtBranche.ch Online-marketing Schweiz</a>
+        <a href="https://stadtbranche.ch/thema-online-marketing" target="_blank" class="medium-italic text-decoration-none">StadtBranche.ch Online-marketing Schweiz</a>
     </div>
 </section>
 <?php

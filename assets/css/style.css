@@ -1,3 +1,38 @@
+html {
+  overflow-x: hidden !important;
+}
+
+.navbar-nav .menu-item{
+  margin: 0px 8px !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  font-size: 14px !important;
+}
+
+.dropdown-menu .nav-link {
+  padding: 4px 8px !important;
+}
+
+.dropdown-menu a:hover {
+  color: #ce1b28 !important;
+}
+.blog-image .card-img-top{
+  height: 185px !important;
+  object-fit: cover !important;
+}
+.text-wrap{
+  word-break: break-all !important;
+}
+footer li {
+  margin-bottom: 4px !important;
+}
+
+.medium-italic, article a, #comments a {
+  color: #ce1b28 !important;
+  font-weight: 400 !important;
+  font-style: italic !important;
+}
 .banner-section {
     background: url(../images/header-bg.webp);
     background-size: cover;
@@ -142,11 +177,16 @@
     font-weight: bold;
     color: #404040;
     padding: 0;
+    box-shadow: none;
+    border: none;
+    text-align: left;
   }
   
   .myaccordion .btn-link:hover,
   .myaccordion .btn-link:focus {
     text-decoration: none;
+    box-shadow: none;
+    border: none;
   }
 
   /* css for 404 page start */

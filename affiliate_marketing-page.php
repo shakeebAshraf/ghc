@@ -22,22 +22,22 @@ get_header();
 </div>
 
 <section class="container my-5">
-    <div class="row mt-5">
-        <div class="col-md-6 justify-content-center align-self-center pr-md-5">
+    <div class="row">
+        <div class="col-md-6 justify-content-center align-self-center pr-md-5 mt-5 mt-md-0 order-2 order-md-1">
             <h2 class="h2 font-medium">Was ist Affiliate-Marketing?</h2>
             <p>In der heutigen technologiegetriebenen Welt ist Affiliate-Marketing zu einem immer wichtigeren Instrument für Unternehmen jeder Größe geworden.</p>
             <p>Indem Sie mit anderen Unternehmen oder Einzelpersonen zusammenarbeiten, die Ihre Zielgruppe teilen, können Sie ein breiteres Publikum effizienter und effektiver erreichen.</p>
             <p>Jetzt fragen Sie sich vielleicht, was Affiliate-Marketing in einfachen Worten ist.</p>
-            <p>Affiliate-Marketing ist <a href="https://neilpatel.com/blog/performance-based-marketing-win/" class="text-danger font-weight-bold text-decoration-none">leistungsbasiertes Marketing</a>, bei dem ein Unternehmen einen oder mehrere Affiliates für jeden Besucher oder Kunden belohnt, der durch die Marketingbemühungen des Affiliates gewonnen wird.</p>
+            <p class="mb-0">Affiliate-Marketing ist <a target="_blank" href="https://neilpatel.com/blog/performance-based-marketing-win/" class="medium-italic text-decoration-none">leistungsbasiertes Marketing</a>, bei dem ein Unternehmen einen oder mehrere Affiliates für jeden Besucher oder Kunden belohnt, der durch die Marketingbemühungen des Affiliates gewonnen wird.</p>
         </div>
-        <div class="col-md-6 justify-content-center align-self-center pl-md-5">
-            <img src="<?php echo get_template_directory_uri() . '/assets/images/awin.jpg' ?>" alt="">
+        <div class="col-md-6 justify-content-center align-self-center pl-md-5 order-1 order-md-2">
+            <img src="<?php echo get_template_directory_uri() . '/assets/images/awin.jpg' ?>" class="img-fluid" alt="">
         </div>
     </div>
 
     <div class="row mt-5">
         <div class="col-lg-6 mx-auto text-center">
-            <h2 class="h2 font-medium mx-auto">Die Branche hat vier Hauptakteure:</h2>
+            <h2 class="h2 font-medium mx-auto mb-3">Die Branche hat vier Hauptakteure:</h2>
         </div>
         <div class="row w-100 mx-5 mt-4 border-top border-left border-right border-light">
             <div class="col-md-3 col-sm-6 text-center py-5 border-right border-bottom border-light">
@@ -71,81 +71,81 @@ get_header();
     </div>
 </section>
 
-<section class="container mt-5">
-    <div class="row mt-5">
-        <div class="col-md-6 justify-content-center align-self-center pr-md-5">
+<section class="container my-5">
+    <div class="row">
+        <div class="col-md-6 justify-content-center align-self-center pr-md-5 mt-5 mt-md-0 order-2 order-md-1">
             <h2 class="h2 font-medium">Wer sind wir?</h2>
-            <p>Wir sind eine führende Agentur für Affiliate-Marketing in der Schweiz und haben vielen Unternehmen geholfen, ihre Online-Verkäufe zu steigern, indem wir ihnen effektive Affiliate-Marketing-Services anbieten.</p>
+            <p class="mb-0">Wir sind eine führende Agentur für Affiliate-Marketing in der Schweiz und haben vielen Unternehmen geholfen, ihre Online-Verkäufe zu steigern, indem wir ihnen effektive Affiliate-Marketing-Services anbieten.</p>
         </div>
-        <div class="col-md-6 justify-content-center align-self-center pl-md-5">
-            <img src="<?php echo get_template_directory_uri() . '/assets/images/who-we-are.jpg' ?>" alt="">
+        <div class="col-md-6 justify-content-center align-self-center pl-md-5 order-1 order-md-2">
+            <img src="<?php echo get_template_directory_uri() . '/assets/images/who-we-are.jpg' ?>" class="img-fluid" alt="">
         </div>
     </div>
 
-    <div class="row text-center px-5 mt-5">
-        <h2 class="h2 font-medium mx-auto col-lg-6 mb-4">Unsere Affiliate-Marketing-Services</h2>
+    <div class="text-md-center px-md-5 mt-5">
+        <h2 class="h2 font-medium mx-auto col-lg-6 mb-3 px-0">Unsere Affiliate-Marketing-Services</h2>
         <p class="mx-auto">Als Agentur für Affiliate-Marketing Schweiz bieten wir eine breite Palette von Affiliate-Marketing-Dienstleistungen an, die Ihnen helfen können, Ihre gewünschten Ergebnisse zu erzielen.</p>
         <p class="mx-auto">Wir können Ihnen helfen, Ihre Affiliate-Marketing-Kampagnen zu erstellen und zu verwalten, Ihre Verkäufe und Conversions zu verfolgen und Ihnen Berichte zur Überwachung Ihres Fortschritts bereitzustellen.</p>
-        <p class="mx-auto">Darüber hinaus können wir Sie unterstützen und beraten, wie Sie Ihre Kampagnen für bessere Ergebnisse optimieren können. Das bedeutet, dass Sie sich auf das konzentrieren können, was Sie am besten können – Ihr Geschäft führen – während wir uns für Sie um die <a href="#" class="text-danger font-weight-bold text-decoration-none">Marketing</a>seite kümmern.</p>
+        <p class="mx-auto mb-0">Darüber hinaus können wir Sie unterstützen und beraten, wie Sie Ihre Kampagnen für bessere Ergebnisse optimieren können. Das bedeutet, dass Sie sich auf das konzentrieren können, was Sie am besten können – Ihr Geschäft führen – während wir uns für Sie um die <a href="https://www.ghc-gmbh.ch/google-ads-performance-ads/" target="_blank" class="medium-italic text-decoration-none">Marketing</a>seite kümmern.</p>
     </div>
 
-    <div class="row">
-        <div class="col-md-6 col-lg-4 p-5 pb-0">
+    <div class="row mt-3">
+        <div class="col-md-6 col-lg-4 px-5 pt-5">
             <span class="count-service">01</span>
             <h4>Affiliate-Analyse</h4>
-            <p>Wir <a href="#" class="text-danger font-weight-bold text-decoration-none">analysieren Ihre Website</a> und Ihre Zielgruppe, um die besten Affiliate-Marketing-Programme für Ihr Unternehmen zu ermitteln.</p>
+            <p class="mb-0">Wir <a href="https://www.ghc-gmbh.ch/webseiten/" target="_blank" class="medium-italic text-decoration-none">analysieren Ihre Website</a> und Ihre Zielgruppe, um die besten Affiliate-Marketing-Programme für Ihr Unternehmen zu ermitteln.</p>
         </div>
-        <div class="col-md-6 col-lg-4 p-5">
+        <div class="col-md-6 col-lg-4 px-5 pt-5">
             <span class="count-service">02</span>
             <h4>Netzwerkauswahl</h4>
-            <p>Wir wählen die Affiliate-Netzwerke aus, die für Ihr Unternehmen und Ihre Zielgruppe am besten geeignet sind, um die besten Erfolgschancen zu bieten.</p>
+            <p class="mb-0">Wir wählen die Affiliate-Netzwerke aus, die für Ihr Unternehmen und Ihre Zielgruppe am besten geeignet sind, um die besten Erfolgschancen zu bieten.</p>
         </div>
-        <div class="col-md-6 col-lg-4 p-5">
+        <div class="col-md-6 col-lg-4 px-5 pt-5">
             <span class="count-service">03</span>
             <h4>Mögliche Partner</h4>
-            <p>Als Agentur für Affiliate-Marketing Schweiz identifizieren wir potenzielle Partner und Affiliates, die Ihnen helfen können, Ihre Zielgruppe zu erreichen.</p>
+            <p class="mb-0">Als Agentur für Affiliate-Marketing Schweiz identifizieren wir potenzielle Partner und Affiliates, die Ihnen helfen können, Ihre Zielgruppe zu erreichen.</p>
         </div>
-        <div class="col-md-6 col-lg-4 p-5">
+        <div class="col-md-6 col-lg-4 px-5 pt-5">
             <span class="count-service">04</span>
             <h4>Auswahlkriterien</h4>
-            <p>Wir werden Auswahlkriterien für potenzielle Partner und verbundene Unternehmen festlegen, damit Sie diejenigen auswählen können, die Ihren Anforderungen am besten entsprechen.</p>
+            <p class="mb-0">Wir werden Auswahlkriterien für potenzielle Partner und verbundene Unternehmen festlegen, damit Sie diejenigen auswählen können, die Ihren Anforderungen am besten entsprechen.</p>
         </div>
-        <div class="col-md-6 col-lg-4 p-5">
+        <div class="col-md-6 col-lg-4 px-5 pt-5">
             <span class="count-service">05</span>
             <h4>Budgetvorschlag inklusive Provisionsmodell</h4>
-            <p>Ein Kostenvoranschlag ist für ein Affiliate-Marketing-Programm unerlässlich. Die <a href="#" class="text-danger font-weight-bold text-decoration-none">GHC GmbH</a>, als Affiliate-Marketing-Agentur in der Schweiz, entwickelt für Sie ein auf Ihr Budget abgestimmtes Angebot inkl. Provisionsmodell.</p>
+            <p class="mb-0">Ein Kostenvoranschlag ist für ein Affiliate-Marketing-Programm unerlässlich. Die <a href="https://www.ghc-gmbh.ch/" target="_blank" class="medium-italic text-decoration-none">GHC GmbH</a>, als Affiliate-Marketing-Agentur in der Schweiz, entwickelt für Sie ein auf Ihr Budget abgestimmtes Angebot inkl. Provisionsmodell.</p>
         </div>
-        <div class="col-md-6 col-lg-4 p-5">
+        <div class="col-md-6 col-lg-4 px-5 pt-5">
             <span class="count-service">06</span>
             <h4>Konditionsmodell</h4>
-            <p>Wir entwickeln ein maßgeschneidertes Affiliate-Marketing-Programm, das die spezifischen Konditionen Ihres Unternehmens berücksichtigt.</p>
+            <p class="mb-0">Wir entwickeln ein maßgeschneidertes Affiliate-Marketing-Programm, das die spezifischen Konditionen Ihres Unternehmens berücksichtigt.</p>
         </div>
-        <div class="col-md-6 col-lg-4 p-5">
+        <div class="col-md-6 col-lg-4 px-5 pt-5">
             <span class="count-service">07</span>
             <h4>Konto – Vertrag</h4>
-            <p>Das Einrichten von Konten ist der erste Schritt im Affiliate-Marketing. Als Agentur für Affiliate Marketing Schweiz kümmern wir uns um die Einrichtung Ihrer Affiliate Accounts und helfen Ihnen bei Vertragsverhandlungen mit potentiellen Partnern.</p>
+            <p class="mb-0">Das Einrichten von Konten ist der erste Schritt im Affiliate-Marketing. Als Agentur für Affiliate Marketing Schweiz kümmern wir uns um die Einrichtung Ihrer Affiliate Accounts und helfen Ihnen bei Vertragsverhandlungen mit potentiellen Partnern.</p>
         </div>
-        <div class="col-md-6 col-lg-4 p-5">
+        <div class="col-md-6 col-lg-4 px-5 pt-5">
             <span class="count-service">08</span>
             <h4>Erstes Werbematerial und Codes für Partner</h4>
-            <p>Unser Team erstellt die ersten Werbematerialien und Codes für Ihre Partner.</p>
+            <p class="mb-0">Unser Team erstellt die ersten Werbematerialien und Codes für Ihre Partner.</p>
         </div>
-        <div class="col-md-6 col-lg-4 p-5">
+        <div class="col-md-6 col-lg-4 px-5 pt-5">
             <span class="count-service">09</span>
             <h4>Einrichten von Tracking-Codes</h4>
-            <p>Wir richten die erforderlichen Tracking-Codes für Ihr Affiliate-Marketing-Programm ein, damit Sie Verkäufe und Konversionen verfolgen können.</p>
+            <p class="mb-0">Wir richten die erforderlichen Tracking-Codes für Ihr Affiliate-Marketing-Programm ein, damit Sie Verkäufe und Konversionen verfolgen können.</p>
         </div>
-        <div class="col-md-6 col-lg-4 p-5">
+        <div class="col-md-6 col-lg-4 px-5 pt-5">
             <span class="count-service">10</span>
             <h4>Langzeitpflege pro Monat</h4>
-            <p>Premium-Support für Ihr Affiliate-Konto ab 5% des Affiliate-Budgets, min. CHF 500*, pro Domain (URL) und Monat, Mindestlaufzeit 6 Monate.</p>
+            <p class="mb-0">Premium-Support für Ihr Affiliate-Konto ab 5% des Affiliate-Budgets, min. CHF 500*, pro Domain (URL) und Monat, Mindestlaufzeit 6 Monate.</p>
         </div>
     </div>
 </section>
 
-<section class="bg-light p-5">
+<section class="bg-light py-5">
     <div class="container">
-        <h2 class="h2 font-medium py-5">Dienstleistungen</h2>
+        <h2 class="h2 font-medium">Dienstleistungen</h2>
         <div class="row">
             <div class="col-md-6">
                 <div class="border-bottom border-danger py-2 h-100">
@@ -193,7 +193,7 @@ get_header();
                 </div>
             </div>
         </div>
-        <p class="text-danger text-right">*Voraussetzung ist die einmalige Grundanalyse/Einrichtung.</p>
+        <p class="text-danger text-lg-right mt-4 mb-0">*Voraussetzung ist die einmalige Grundanalyse/Einrichtung.</p>
     </div>
 </section>
 

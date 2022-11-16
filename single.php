@@ -24,7 +24,7 @@ get_header();
 				<div class="col-md-4 col-lg-3 pt-5">
 					<div style="position: sticky; top:40px;">
 						<?php echo apply_shortcodes('[ez-toc]'); ?>
-						<div class="text-center mt-5">
+						<div class="mt-5">
 							<h4>Abonnieren Sie wöchentliche Updates</h4>
 							<form class="mt-4">
 								<div class="form-group">
@@ -34,9 +34,10 @@ get_header();
 
 							<h5 class="mt-4">Teile diesen Artikel</h5>
 							<span>
-								<a class="head-text-icon mr-2" href="https://www.facebook.com/sharer/sharer.php?u=<?php the_permalink() ?>" target="_blank"><i class="fab fa-facebook-f fb-icon fa-2x"></i></a>
-								<a class="head-text-icon mr-2" href="https://twitter.com/intent/tweet?text=<?php the_permalink() ?>" target="_blank"><i class="fab fa-twitter fa-2x"></i></a>
-								<a class="head-text-icon mr-2" href="https://www.linkedin.com/cws/share?url=<?php the_permalink() ?>" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a>
+								<a class="head-text-icon mr-2" href="https://www.facebook.com/sharer/sharer.php?u=<?php the_permalink() ?>" target="_blank"><img class="mr-0" src="<?php echo get_template_directory_uri() . '/assets/images/facebook.png' ?>" width="32px" alt=""></a>
+								<a class="head-text-icon mr-2" href="https://twitter.com/intent/tweet?text=<?php the_permalink() ?>" target="_blank"><img class="mr-0" src="<?php echo get_template_directory_uri() . '/assets/images/twitter.png' ?>" width="32px" alt=""></a>
+								<a class="head-text-icon mr-2" href="https://www.linkedin.com/cws/share?url=<?php the_permalink() ?>" target="_blank"><img class="mr-0" src="<?php echo get_template_directory_uri() . '/assets/images/linkedin.png' ?>" width="32px" alt=""></a>
+								<a class="head-text-icon mr-2" href="https://www.instagram.com/cws/share?url=<?php the_permalink() ?>" target="_blank"><img class="mr-0" src="<?php echo get_template_directory_uri() . '/assets/images/instagram.png' ?>" width="32px" alt=""></a>
 							</span>
 						</div>
 					</div>

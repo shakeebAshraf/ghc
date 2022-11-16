@@ -21,31 +21,34 @@ get_header();
 			</div>
 		</div>
 		<div class="container">
-			<div class="row justify-content-between">
+			<div class="row justify-content-between mt-5">
 			<?php
 			/* Start the Loop */
-			while (have_posts()) :
+			while (have_posts()) : 
+				the_post();
 				?>
-				<div class="col-md-6 col-lg-4 mt-5">
-				<div class="card mb-2 h-100">
+				<?php $featured_img_url = get_the_post_thumbnail_url(get_the_ID(), 'full'); ?>
+				<div class="col-lg-4 col-md-6 mb-5">
+                        <div class="card mb-2 h-100 blog-image">
                             <img class="card-img-top" src="<?php echo $featured_img_url ?>" alt="">
-                            <div class="card-body">
-                                <h4 class="card-title"><?php the_title(); ?></h4>
+                            <div class="card-body d-flex flex-column">
+                                <a href="<?php the_permalink(); ?>" class="text-dark text-decoration-none">
+                                    <h4 class="card-title"><?php the_title(); ?></h4>
+                                </a>
                                 <p class="card-text"><?php the_excerpt(); ?></p>
-                                <a href="<?php the_permalink(); ?>" class=" btn bg-dark text-white">View</a>
+                                <a href="<?php the_permalink(); ?>" class="btn bg-dark text-white mt-auto">Mehr</a>
                             </div>
                         </div>
-				</div>
+                    </div>
 				<?php
-
-				the_post();
 
 				/*
 				 * Include the Post-Type-specific template for the content.
 				 * If you want to override this in a child theme, then include a file
 				 * called content-___.php (where ___ is the Post Type name) and that will be used instead.
 				 */
-				get_template_part('template-parts/content', get_post_type());
+				// get_template_part('template-parts/content', get_post_type());
+			
 
 			endwhile;
 
@@ -53,7 +56,7 @@ get_header();
 
 		else :
 
-			get_template_part('template-parts/content', 'none');
+			// get_template_part('template-parts/content', 'none');
 
 		endif;
 			?>
