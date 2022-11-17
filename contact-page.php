@@ -36,7 +36,7 @@ get_header();
             <?php echo do_shortcode('[wpforms id="2578"]') ?>
         </div>
         <div class="col-md-6 justify-content-center align-self-center pl-md-5">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2712.228452852147!2d8.097964215136237!3d47.17296352582623!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47901ff781c4e1b1%3A0x224a5fb7fdcdc535!2sJosef-M%C3%BCller-Weg%206%2C%206210%20Sursee%2C%20Switzerland!5e0!3m2!1sen!2s!4v1667548770976!5m2!1sen!2s" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" onload="this.width=screen.width;this.height=screen.height/2;"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d907283.5894120138!2d6.990469598856887!3d47.23065352331595!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47901ff781c4e193%3A0x483c0b1858bc98d0!2sGHC%20GmbH!5e0!3m2!1sen!2s!4v1668670628041!5m2!1sen!2s" style="border:0;-webkit-filter: grayscale(100%);filter: grayscale(100%);" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" onload="this.width=screen.width;this.height=screen.height/2;"></iframe>
         </div>
     </div>
 
