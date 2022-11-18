@@ -31,7 +31,7 @@ get_header();
             <p class="mb-0">Affiliate-Marketing ist <a target="_blank" href="https://neilpatel.com/blog/performance-based-marketing-win/" class="medium-italic text-decoration-none">leistungsbasiertes Marketing</a>, bei dem ein Unternehmen einen oder mehrere Affiliates für jeden Besucher oder Kunden belohnt, der durch die Marketingbemühungen des Affiliates gewonnen wird.</p>
         </div>
         <div class="col-md-6 justify-content-center align-self-center pl-md-5 order-1 order-md-2">
-            <img src="<?php echo get_template_directory_uri() . '/assets/images/awin.jpg' ?>" class="img-fluid" alt="">
+            <img src="<?php echo get_template_directory_uri() . '/assets/images/awin.webp' ?>" class="img-fluid" alt="">
         </div>
     </div>
 
@@ -78,7 +78,7 @@ get_header();
             <p class="mb-0">Wir sind eine führende Agentur für Affiliate-Marketing in der Schweiz und haben vielen Unternehmen geholfen, ihre Online-Verkäufe zu steigern, indem wir ihnen effektive Affiliate-Marketing-Services anbieten.</p>
         </div>
         <div class="col-md-6 justify-content-center align-self-center pl-md-5 order-1 order-md-2">
-            <img src="<?php echo get_template_directory_uri() . '/assets/images/who-we-are.jpg' ?>" class="img-fluid" alt="">
+            <img src="<?php echo get_template_directory_uri() . '/assets/images/who-we-are.webp' ?>" class="img-fluid" alt="">
         </div>
     </div>
 

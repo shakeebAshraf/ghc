@@ -175,4 +175,6 @@ get_header();
 </section>
 <?php
 get_footer(); ?>
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d907283.5894120138!2d6.990469598856887!3d47.23065352331595!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47901ff781c4e193%3A0x483c0b1858bc98d0!2sGHC%20GmbH!5e0!3m2!1sen!2s!4v1668670628041!5m2!1sen!2s" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" onload="this.width=screen.width;this.height=screen.height/2;"></iframe>
+<a href="https://www.google.com/maps/place/GHC+GmbH/@47.1729635,8.0979642,17z/data=!4m5!3m4!1s0x47901ff781c4e193:0x483c0b1858bc98d0!8m2!3d47.1729599!4d8.1001529" target="_blank">
+    <img src="<?php echo get_template_directory_uri() . '/assets/images/map.webp' ?>" style="min-height: 25vh; width:100%">
+</a>

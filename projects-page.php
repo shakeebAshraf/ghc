@@ -33,14 +33,14 @@ get_header();
         <div class="col-md-6 pr-md-4">
             <div class="mb-5 p-3 bg-light">
                 <div class="bg-danger px-3 pt-3">
-                    <img src="<?php echo get_template_directory_uri() . '/assets/images/carmart.jpg' ?>" class="w-100" alt="">
+                    <img src="<?php echo get_template_directory_uri() . '/assets/images/carmart.webp' ?>" class="w-100" alt="">
                 </div>
                 <h4 class="mt-3">Projekt carmart.ch – Berichte zu New Mobility</h4>
                 <p class="mb-0"><a href="https://www.carmart.ch/" target="_blank" class="medium-italic text-decoration-none">carmart.ch</a> berichtet seit dem Jahr 2003 ausführlich über <span class="font-weight-bold">Ereignisse</span>, <span class="font-weight-bold">Neuheiten</span> und <span class="font-weight-bold">Nachrichten</span> aus dem <span class="font-weight-bold">Mobilitätsmarkt</span>. Neben Neuvorstellungen, dem Markt und seinen Entwicklungen werden auch Erfahrungsberichte und Fahrberichte über Fahrzeuge aller Art veröffentlicht. Bei der Betrachtung des Marktes nehmen wir eher den Blick aus Sicht des Kunden, Verbrauchers und Betroffenem ein und legen auch Schwerpunkte auf wirtschaftliche und umweltbezogene Themen.</p>
             </div>
             <div class="mt-4 p-3 bg-light">
                 <div class="bg-danger px-3 pt-3">
-                    <img src="<?php echo get_template_directory_uri() . '/assets/images/schuband.jpg' ?>" class="w-100" alt="">
+                    <img src="<?php echo get_template_directory_uri() . '/assets/images/schuband.webp' ?>" class="w-100" alt="">
                 </div>
                 <h4 class="mt-3">Projekt schuhband.ch – Schnürsenkel und Zubehör</h4>
                 <p class="mb-0">In unserem Online-Shop <a href="https://www.schuhband.ch/" target="_blank" class="medium-italic text-decoration-none">schuhband.ch</a> verkaufen wir online Schnürsenkel, Schuhspanner oder anderes Schuh-Zubehör. Auf die Idee zu diesem Shop sind wir im Rahmen eines Recherche-Projektes gestossen. Wir haben die verschiedenen Grundbedürfnisse untersucht und analysiert wie viele durch Online-Shops abgedeckt sind. Dabei sind wir darauf gestossen, dass es praktisch keinen reinen Online-Shop für Schuhzubehör in der Schweiz gab. Mittlerweile machen uns das natürlich einige nach. Dennoch sind wir der mit der spitzesten Ausrichtung im Markt.</p>
@@ -49,14 +49,14 @@ get_header();
         <div class="col-md-6 pl-md-4 mt-5 mt-md-0">
             <div class="mb-5 p-3 bg-light">
                 <div class="bg-danger px-3 pt-3">
-                    <img src="<?php echo get_template_directory_uri() . '/assets/images/outview.jpg' ?>" class="w-100" alt="">
+                    <img src="<?php echo get_template_directory_uri() . '/assets/images/outview.webp' ?>" class="w-100" alt="">
                 </div>
                 <h4 class="mt-3">Projekt outview.ch – Artikel über Disruption</h4>
                 <p class="mb-0">Durch die immer stärkere Vernetzung, Globalisierung und Digitalisierung werden zunehmend Projekte und Produkte möglich, die herkömmliche ersetzen werden. Dabei tritt oft ein extremer wirtschaftlicher Vorteil auf, der die Transformation erheblich zu beschleunigen hilft. Auf der einen Seite bietet das enorme Vorteile für alle von uns, zerstört aber auch herkömmliche, alte Strukturen mit all seinen Folgen. Ein Beispiel ist die Elektromobilität bzw. die neuen Mobilitätssysteme. Sie werden die klassische Autoindustrie ersetzen, viele Arbeitskräfte freisetzen und das Leben vieler Menschen verändern. Gleichzeitig schaffen sie neu, aber andere Arbeitsplätze, helfen die Umwelt zu schonen und das Leben für viele einfacherer, sicherer und angenehmer zu gestalten. Auf <a href="https://www.outview.ch/" target="_blank" class="medium-italic text-decoration-none">outview.ch</a> berichten wir über alle Aspekte rund um solche Disruptionen.</p>
             </div>
             <div class="mt-4 p-3 bg-light">
                 <div class="bg-danger px-3 pt-3">
-                    <img src="<?php echo get_template_directory_uri() . '/assets/images/handfans.jpg' ?>" class="w-100" alt="">
+                    <img src="<?php echo get_template_directory_uri() . '/assets/images/handfans.webp' ?>" class="w-100" alt="">
                 </div>
                 <h4 class="mt-3">Projekt hand-fans.ch – Kühle Brise ohne Elektrosmog</h4>
                 <p class="mb-0">Unser Handfächer-Shop <a href="https://www.hand-fans.ch/" target="_blank" class="medium-italic text-decoration-none">hand-fans.ch</a> war unser aller erster Online-Shop in der Schweiz. Er erblickte das Licht der Welt bereits im Jahre 2007. Für einen absoluten Beginner-Show-Case suchten wir nach einem Artikel den wir in einem Online-Shop präsentieren konnten. Da es an dem Tag recht heiss und schwül war, kam uns der Gedanke einen Shop für Handfächer zu erstellen. Eigentlich füllten wir den Shop nur mit fiktiven Handfächer-Artikeln um den Shop unseren Kunden präsentieren zu können. Es ging ja eigentlich nur darum unser Können unter Beweis zu stellen. Wider erwarten bestellten auf einmal Kunden Handfächer. Nun gebot es unsere Ehre auch zu liefern. Und so entwickelte sich ein reges Handfächer – Geschäft über diesen Shop.</p>

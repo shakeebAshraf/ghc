@@ -30,12 +30,12 @@ get_header();
                 <p class="mb-0">Die GHC GmbH ist eine Online-Marketing-Agentur und ein Beratungsunternehmen spezialisiert auf den Bereich eCommerce. Unser Firmensitz liegt im schönen Sursee, mitten in der Schweiz. Wir betreuen Unternehmen auf ihrem Weg in den eCommerce. Von der ersten Stunde bis hin zu einer kontinuierlichen Betreuung und Vermarktung.</p>
         </div>
         <div class="col-md-6 justify-content-center align-self-center pl-md-5 order-1 order-md-2">
-            <img src="<?php echo get_template_directory_uri() . '/assets/images/ab1.jpg' ?>" class="img-fluid" alt="">
+            <img src="<?php echo get_template_directory_uri() . '/assets/images/ab1.webp' ?>" class="img-fluid" alt="">
         </div>
     </div>
     <div class="row mt-5">
         <div class="col-md-6 justify-content-center align-self-center pr-md-5">
-            <img src="<?php echo get_template_directory_uri() . '/assets/images/ab2.jpg' ?>" class="img-fluid" alt="">
+            <img src="<?php echo get_template_directory_uri() . '/assets/images/ab2.webp' ?>" class="img-fluid" alt="">
         </div>
         <div class="col-md-6 justify-content-center align-self-center pl-md-5 mt-5 mt-md-0">
             <h2 class="h2 font-medium">Was wir tun?</h2>
@@ -48,7 +48,7 @@ get_header();
             <p class="mb-0">Praktisch heisst das, die Erstellung von Business-Konzepten, Business-Plänen, Auswahl geeigneter Software/Online-Shops inkl., Installation, Einrichtung, Anbindungen an geeignete ERP-Lösungen. Ziel ist einen optimalen Geschäftsprozess für den Kunden zu finden, mit dem er seine Produkte online vermarkten kann und gleichzeitig das Fulfillment ausführt. Also einen kompletten Geschäftsprozess abbildet. Darüber hinaus unterstützen wir, nach dem Aufbau des Prozesses, die betriebswirtschaftliche, marketingorientierte und technische Optimierung mit dem Ziel der Profitabilität für den Kunden.</p>
         </div>
         <div class="col-md-6 justify-content-center align-self-center pl-md-5 order-1 order-md-2">
-            <img src="<?php echo get_template_directory_uri() . '/assets/images/ab3.jpg' ?>" class="img-fluid" alt="">
+            <img src="<?php echo get_template_directory_uri() . '/assets/images/ab3.webp' ?>" class="img-fluid" alt="">
         </div>
     </div>
     <div class="row mt-5">
@@ -61,7 +61,7 @@ get_header();
             <p class="mb-0">Know How – Branchenerfahrung in Gesundheit, Optik, Metallbau, Maschinenbau, Chemie, Automobil, IT-Industrie, Logistik, Marketing u.a. mehr.</p>
         </div>
         <div class="col-md-6 justify-content-center align-self-center pl-md-5 mt-5 mt-md-0">
-            <img src="<?php echo get_template_directory_uri() . '/assets/images/ceo.jpg' ?>" class="img-fluid" alt="">
+            <img src="<?php echo get_template_directory_uri() . '/assets/images/ceo.webp' ?>" class="img-fluid" alt="">
         </div>
     </div>
     <div class="row mt-5">

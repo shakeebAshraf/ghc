@@ -37,13 +37,13 @@ get_header();
             <p class="mb-0">Es ist immer besser, sich an eine erfahrene Agentur für Landing Page Design oder Website Design Services zu wenden. Die <a href="https://www.ghc-gmbh.ch/" target="_blank" class="medium-italic text-decoration-none">GHC GmbH ist für Sie da</a>, um ein überzeugendes und attraktives Landingpage-Design zu erstellen, um den Verkauf anzukurbeln.</p>
         </div>
         <div class="col-md-6 justify-content-center align-self-center pl-md-5 order-1 order-md-2">
-            <img src="<?php echo get_template_directory_uri() . '/assets/images/increased-sales.jpg' ?>" class="img-fluid" alt="">
+            <img src="<?php echo get_template_directory_uri() . '/assets/images/increased-sales.webp' ?>" class="img-fluid" alt="">
         </div>
     </div>
 
     <div class="row mt-5">
         <div class="col-md-6 justify-content-center align-self-center pr-md-5">
-            <img src="<?php echo get_template_directory_uri() . '/assets/images/best-landing-page.jpg' ?>" class="img-fluid" alt="">
+            <img src="<?php echo get_template_directory_uri() . '/assets/images/best-landing-page.webp' ?>" class="img-fluid" alt="">
         </div>
         <div class="col-md-6 justify-content-center align-self-center pl-md-5 mt-5 mt-md-0">
             <h2 class="h2 font-medium mb-3">Welches Landing Page Design ist das beste?</h2>

@@ -37,7 +37,7 @@ get_header();
             <p class="mb-0">Wir betreuen Google Ads-Konten seit 2007 und verfügen über ein Team aus erfahrenen Google Ads-Spezialisten, die von Google zertifiziert sind und über fundierte Kenntnisse der Google Ads-Plattform verfügen. Mit unserer Hilfe können Sie Ihren Return on Investment (ROI) aus Ihren Google Ads-Kampagnen maximieren.</p>
         </div>
         <div class="col-md-6 justify-content-center align-self-center pl-md-5 order-1 order-md-2">
-            <img src="<?php echo get_template_directory_uri() . '/assets/images/who-we-are-ads.jpg' ?>" class="img-fluid" alt="">
+            <img src="<?php echo get_template_directory_uri() . '/assets/images/who-we-are-ads.webp' ?>" class="img-fluid" alt="">
         </div>
     </div>
 </section>
@@ -186,7 +186,7 @@ get_header();
                 <p class="mb-0">Neben Google Adwords bieten wir auch SEO, Webentwicklung, Affiliate-Marketing und viele andere Dienstleistungen an. Für ein Angebot können Sie sich jederzeit an die GHC-GbmH wenden.</p>
             </div>
             <div class="col-md-6 justify-content-center align-self-center pl-md-5 order-1 order-md-2">
-                <img src="<?php echo get_template_directory_uri() . '/assets/images/distinguish-ads.jpg' ?>" class="img-fluid" alt="">
+                <img src="<?php echo get_template_directory_uri() . '/assets/images/distinguish-ads.webp' ?>" class="img-fluid" alt="">
             </div>
         </div>
     </div>

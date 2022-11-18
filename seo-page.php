@@ -37,12 +37,12 @@ get_header();
             <p class="mb-0">Wir recherchieren die richtigen Schlüsselwörter für Ihr Unternehmen und Ihre Branche und integrieren sie dann in <a class="medium-italic font-weight-bold" target="_blank" href="https://www.ghc-gmbh.ch/webseiten/">Ihre Website</a>, damit Sie in den Suchergebnissen höher eingestuft werden.</p>
         </div>
         <div class="col-md-6 justify-content-center align-self-center pl-md-5 order-1 order-md-2">
-            <img src="<?php echo get_template_directory_uri() . '/assets/images/increased-visibility.jpg' ?>" class="img-fluid" alt="">
+            <img src="<?php echo get_template_directory_uri() . '/assets/images/increased-visibility.webp' ?>" class="img-fluid" alt="">
         </div>
     </div>
     <div class="row mt-5">
         <div class="col-md-6 justify-content-center align-self-center pr-md-5">
-            <img src="<?php echo get_template_directory_uri() . '/assets/images/more-traffic.jpg' ?>" class="img-fluid" alt="">
+            <img src="<?php echo get_template_directory_uri() . '/assets/images/more-traffic.webp' ?>" class="img-fluid" alt="">
         </div>
         <div class="col-md-6 justify-content-center align-self-center pl-md-5 mt-5 mt-md-0">
             <h2 class="h2 font-medium">Mehr Traffic & Conversions</h2>
@@ -57,7 +57,7 @@ get_header();
             <p class="mb-0">Wir helfen Ihnen, in den Suchergebnissen höher zu ranken, um mehr organischen Traffic zu erhalten. Wir optimieren Ihre Website auch für Conversions, damit Sie diesen Traffic in Kunden umwandeln können.</p>
         </div>
         <div class="col-md-6 justify-content-center align-self-center pl-md-5 order-1 order-md-2">
-            <img src="<?php echo get_template_directory_uri() . '/assets/images/organic-growth.jpg' ?>" class="img-fluid" alt="">
+            <img src="<?php echo get_template_directory_uri() . '/assets/images/organic-growth.webp' ?>" class="img-fluid" alt="">
         </div>
     </div>
     <div class="row mt-5">

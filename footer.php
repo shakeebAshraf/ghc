@@ -17,7 +17,7 @@
 
 
 
- 	<div class="bg-light">
+ 	<div class="bg-light footer-section">
  		<div class="container p-5 border-bottom border-danger">
  			<div class="mx-auto">
  				<div class="row">

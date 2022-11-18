@@ -14,7 +14,7 @@ html {
   padding: 4px 8px !important;
 }
 
-.dropdown-menu a:hover {
+.dropdown-menu a:hover, .footer-section a:hover {
   color: #ce1b28 !important;
 }
 .blog-image .card-img-top{
@@ -42,7 +42,7 @@ footer li {
     margin: 0;
 }
 .about-section {
-    background: url(../images/about-bg.jpg);
+    background: url(../images/about-bg.webp);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -50,7 +50,7 @@ footer li {
 }
 
 .seo-section {
-    background: url(../images/seo-bg.jpg);
+    background: url(../images/seo-bg.webp);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -59,7 +59,7 @@ footer li {
 }
 
 .project-section {
-    background: url(../images/projects-bg.jpg);
+    background: url(../images/projects-bg.webp);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -68,7 +68,7 @@ footer li {
 }
 
 .p-adv-section {
-    background: url(../images/ads-bg.jpg);
+    background: url(../images/ads-bg.webp);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -86,7 +86,7 @@ footer li {
 }
 
 .af-mar-section {
-    background: url(../images/affliate-bg.jpg);
+    background: url(../images/affliate-bg.webp);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -95,7 +95,7 @@ footer li {
 }
 
 .blog-section {
-    background: url(../images/blog-bg.jpg);
+    background: url(../images/blog-bg.webp);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -104,7 +104,7 @@ footer li {
 }
 
 .payment-section {
-    background: url(../images/payment-bg.jpg);
+    background: url(../images/payment-bg.webp);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -113,7 +113,7 @@ footer li {
 }
 
 .internet-section {
-    background: url(../images/internet-bg.jpg);
+    background: url(../images/internet-bg.webp);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -122,7 +122,7 @@ footer li {
 }
 
 .landing-page-section {
-    background: url(../images/landing-page.jpg);
+    background: url(../images/landing-page-bg.webp);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -130,7 +130,7 @@ footer li {
 }
 
 .contact-section {
-    background: url(../images/contact-bg.jpg);
+    background: url(../images/contact-bg.webp);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -138,7 +138,7 @@ footer li {
 }
 
 .sales-funnel-section {
-    background: url(../images/sales-funnel-bg.jpg);
+    background: url(../images/sales-funnel-bg.webp);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -342,4 +342,18 @@ footer li {
 
   .menu-hauptmenue-container {
     margin-left: auto !important;
+  }
+
+  @media (max-width: 767px) {
+    .banner-section {
+      padding: 48px 0;
+    }
+
+    .banner-section h1 {
+      font-size: 36px;
+    }
+
+    .banner-section img {
+      width: 50%;
+    }
   }

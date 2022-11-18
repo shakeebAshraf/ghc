@@ -30,7 +30,7 @@ get_header();
             <p>Breite Marketing-Kanäle sind heute für die gezielte, qualitativ hochwertige Lead-Generierung einfach zu ungenau. Selbst wenn man Quantität erzeugen kann, stimmt die Qualität einfach nicht. Zu breit ist die Streuung. Die Wünsche für Leads werden heute auch immer spitzer, sodass man nur durch einen genauen Prozess zum Erfolg kommt. Dafür eignet sich der Sales Funnel bestens.</p>
         </div>
         <div class="col-md-6 justify-content-center align-self-center pl-md-5">
-            <img src="<?php echo get_template_directory_uri() . '/assets/images/funnel.jpg' ?>" alt="">
+            <img src="<?php echo get_template_directory_uri() . '/assets/images/funnel.webp' ?>" alt="">
         </div>
     </div>
 
@@ -42,7 +42,7 @@ get_header();
 
     <div class="row mt-5">
         <div class="col-md-6 justify-content-center align-self-center pr-md-5">
-            <img src="<?php echo get_template_directory_uri() . '/assets/images/aida.jpg' ?>" alt="">
+            <img src="<?php echo get_template_directory_uri() . '/assets/images/aida.webp' ?>" alt="">
         </div>
         <div class="col-md-6 justify-content-center align-self-center pl-md-5">
             <h2 class="h2 font-medium mb-3">Oft verwendetes AIDA – Modell</h2>
