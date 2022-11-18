@@ -986,7 +986,8 @@ div.wpforms-container-full .wpforms-form textarea {
 	color: #444444;
 }
 
-div.wpforms-container-full .wpforms-form .wpforms-field-label {
+div.wpforms-container-full .wpforms-form .wpforms-field-label,
+div.wpforms-container-full .wpforms-field-label {
 	display: none !important;
 }
 
@@ -1028,4 +1029,8 @@ div.wpforms-container-full.contact-us-form .wpforms-form .wpforms-submit.theme-p
 
 .navbar-light .navbar-nav .active>.nav-link {
 	color: var(--font-red);
+}
+
+div.wpforms-container-full input.wpforms-field-medium {
+	min-width: 100%;
 }
