@@ -21,8 +21,8 @@
  		<div class="container p-5 border-bottom border-danger">
  			<div class="mx-auto">
  				<div class="row">
- 					<div class="col-lg-4 col-md-12 col-sm-12">
- 						<div class="">
+ 					<div class="col-lg-4">
+ 						<div class="text-md-center text-lg-left">
 							<?php dynamic_sidebar( 'first-footer-widget' ); ?>
 							<img class="mr-2" src="<?php echo get_template_directory_uri() . '/assets/images/linkedin.png' ?>" width="48px" alt="">
 							<img class="mr-2" src="<?php echo get_template_directory_uri() . '/assets/images/facebook.png' ?>" width="48px" alt="">
@@ -30,11 +30,11 @@
 							<img class="mr-2" src="<?php echo get_template_directory_uri() . '/assets/images/twitter.png' ?>" width="48px" alt="">
  						</div>
  					</div>
- 					<div class="col-lg-4 col-md-6 col-sm-6">
+ 					<div class="col-lg-4 col-md-6 mt-5 mt-lg-0">
 					 <?php dynamic_sidebar( 'second-footer-widget' ); ?>
  					</div>
 
- 					<div class="col-lg-4 col-md-6 col-sm-6">
+ 					<div class="col-lg-4 col-md-6 mt-4 mt-md-5 mt-lg-0">
  						<div>
 						 <?php dynamic_sidebar( 'third-footer-widget' ); ?>
  						</div>
