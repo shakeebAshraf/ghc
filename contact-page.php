@@ -48,18 +48,12 @@ get_header();
             <p><span class="font-weight-bold">HR-Nummer: </span> CH-100.4.801.253-5</p>
             <p><span class="font-weight-bold">MwSt.-Nummer: </span> CHE-379.703.451 MWST</p>
             <p><span class="font-weight-bold">UID: </span> CHE-379.703.451</p>
-            <p><span class="font-weight-bold">D-U-N-S® Nummer: </span> 48-011-4026</p>
+            <p class="mb-md-0"><span class="font-weight-bold">D-U-N-S® Nummer: </span> 48-011-4026</p>
         </div>
         <div class="col-md-6 pr-md-5">
             <p><span class="font-weight-bold">Phone: </span> +41 62 791 14 13</p>
-            <p><span class="font-weight-bold">Fax: </span> +41 44 575 30 83</p>
             <p class="mb-0"><span class="font-weight-bold">Email: </span> gh @ ghc-gmbh.ch</p>
         </div>
-    </div>
-
-    <div class="text-center mt-5">
-        <h4>Unterstützt durch</h4>
-        <a href="https://stadtbranche.ch/thema-online-marketing" target="_blank" class="medium-italic text-decoration-none">StadtBranche.ch Online-marketing Schweiz</a>
     </div>
 </section>
 <?php

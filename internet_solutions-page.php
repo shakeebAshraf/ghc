@@ -199,7 +199,7 @@ get_header();
     </div>
 </section>
 
-<section class="bg-red">
+<section class="bg-red mb-5">
     <div class="container">
         <div class="row py-5 m-0 text-white">
             <div class="col-lg-8 mx-auto text-center">

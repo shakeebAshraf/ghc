@@ -11,6 +11,11 @@
  */
 
 ?>
+
+<div class="text-center mb-5">
+	<h4>Unterstützt durch</h4>
+	<a href="https://stadtbranche.ch/thema-online-marketing" target="_blank" class="medium-italic text-decoration-none">StadtBranche.ch Online-marketing Schweiz</a>
+</div>
 <!-- footer start -->
 <a id="back-to-top-button"></a>
 <footer>
@@ -26,8 +31,8 @@
 							<?php dynamic_sidebar('first-footer-widget'); ?>
 							<a href=""><img class="mr-2" src="<?php echo get_template_directory_uri() . '/assets/images/linkedin.png' ?>" width="48px" alt=""></a>
 							<a href="https://www.facebook.com/ghcgmbh/" target="_blank"><img class="mr-2" src="<?php echo get_template_directory_uri() . '/assets/images/facebook.png' ?>" width="48px" alt=""></a>
-							<a href=""><img class="mr-2" src="<?php echo get_template_directory_uri() . '/assets/images/instagram.png' ?>" width="48px" alt=""></a>
-							<a href=""><img class="mr-2" src="<?php echo get_template_directory_uri() . '/assets/images/twitter.png' ?>" width="48px" alt=""></a>
+							<a href="https://www.instagram.com/ghcgmbh/" target="_blank"><img class="mr-2" src="<?php echo get_template_directory_uri() . '/assets/images/instagram.png' ?>" width="48px" alt=""></a>
+							<a href="https://twitter.com/ghc_gmbh" target="_blank"><img class="mr-2" src="<?php echo get_template_directory_uri() . '/assets/images/twitter.png' ?>" width="48px" alt=""></a>
 						</div>
 					</div>
 					<div class="col-lg-4 col-md-6 mt-5 mt-lg-0">
