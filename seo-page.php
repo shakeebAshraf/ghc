@@ -194,7 +194,7 @@ get_header();
                         <p class="pricing-label">/ 3 Monate</p>
                     </div>
                     <!-- Button -->
-                    <a class="price-button" href="#">Abonniere jetzt</a>
+                    <a class="price-button" href="https://www.ghc-gmbh.ch/impressum/">Abonniere jetzt</a>
                 </div>
             </div>
             <!-- Turquoise Table -->
@@ -220,7 +220,7 @@ get_header();
                         <p class="pricing-label">/ 6 Monate</p>
                     </div>
                     <!-- Button -->
-                    <a class="price-button" href="#">Abonniere jetzt</a>
+                    <a class="price-button" href="https://www.ghc-gmbh.ch/impressum/">Abonniere jetzt</a>
                 </div>
             </div>
             <!-- Red Table -->
@@ -246,7 +246,7 @@ get_header();
                         <p class="pricing-label">/ 12 Monate</p>
                     </div>
                     <!-- Button -->
-                    <a class="price-button" href="#">Abonniere jetzt</a>
+                    <a class="price-button" href="https://www.ghc-gmbh.ch/impressum/">Abonniere jetzt</a>
                 </div>
             </div>
         </div>
