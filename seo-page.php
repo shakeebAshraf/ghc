@@ -160,6 +160,99 @@ get_header();
     </div>
 </section>
 
+<section class="py-5">
+    <div class="container">
+        <div class="text-center pb-5 m-0">
+            <h1 class="h2 m-0">SEO Pakete</h1>
+        </div>
+        <div class="row">
+            <!-- Purple Table -->
+            <div class="col-md-4">
+                <div class="pricing-table red h-100 d-flex flex-column">
+                    <!-- Table Head -->
+                    <div class="pricing-label">Festpreis</div>
+                    <h2>SEO Basic</h2>
+                    <h5>Für den Anfang gemacht</h5>
+                    <!-- Features -->
+                    <div class="pricing-features">
+                        <div class="feature">SEO-Audit<span><i class="fas fa-check-circle"></i></span></div>
+                        <div class="feature">Backlink-Analyse<span><i class="fas fa-check-circle"></i></span></div>
+                        <div class="feature">Keyword-Analyse<span><i class="fas fa-check-circle"></i></span></div>
+                        <div class="feature">Mobile Usability-Analyse<span><i class="fas fa-check-circle"></i></span></div>
+                        <div class="feature">Grundlegender SEO-Plan<span><i class="fas fa-check-circle"></i></span></div>
+                        <div class="feature">On-Page-Optimierung / Technische Optimierung<span><i class="fas fa-check-circle"></i></span></div>
+                        <div class="feature">Content-Marketing Strategie<span><i class="fas fa-check-circle"></i></span></div>
+                        <div class="feature">4 hochwertige Blog-Posts inkl. Verlinkung in Social Media<span><i class="fas fa-check-circle"></i></span></div>
+                        <div class="feature">Hochwertiges Link Building ( >100 / Monat)<span><i class="fas fa-check-circle"></i></span></div>
+                        <div class="feature">Tracking und Reporting des Fortschritts<span><i class="fas fa-check-circle"></i></span></div>
+                        <div class="feature">Laufzeit 3 Monate<span><i class="fas fa-check-circle"></i></span></div>
+                    </div>
+                    <!-- Price -->
+                    <div class="price-tag mt-auto">
+                        <span class="symbol">CHF</span>
+                        <span class="amount">1'499</span>
+                        <p class="pricing-label">/ 3 Monate</p>
+                    </div>
+                    <!-- Button -->
+                    <a class="price-button" href="#">Abonniere jetzt</a>
+                </div>
+            </div>
+            <!-- Turquoise Table -->
+            <div class="col-md-4">
+                <div class="pricing-table black h-100 d-flex flex-column">
+                    <!-- Table Head -->
+                    <div class="pricing-label">Festpreis</div>
+                    <h2>SEO Pro</h2>
+                    <h5>Gemacht für erfahrene Benutzer</h5>
+                    <!-- Features -->
+                    <div class="pricing-features">
+                        <div class="feature">Wie SEO Basic, plus<span><i class="fas fa-check-circle"></i></span></div>
+                        <div class="feature">4 hochwertige Blog-Posts inkl. Verlinkung in Social Media (total 8)<span><i class="fas fa-check-circle"></i></span></div>
+                        <div class="feature">Optimierung vorhandenen Content<span><i class="fas fa-check-circle"></i></span></div>
+                        <div class="feature">Hochwertiges Link Building ( >100 / Monat)<span><i class="fas fa-check-circle"></i></span></div>
+                        <div class="feature">Speed Optimierung aller Seiten<span><i class="fas fa-check-circle"></i></span></div>
+                        <div class="feature">Laufzeit 6 Monate<span><i class="fas fa-check-circle"></i></span></div>
+                    </div>
+                    <!-- Price -->
+                    <div class="price-tag mt-auto">
+                        <span class="symbol">CHF</span>
+                        <span class="amount">2'399</span>
+                        <p class="pricing-label">/ 6 Monate</p>
+                    </div>
+                    <!-- Button -->
+                    <a class="price-button" href="#">Abonniere jetzt</a>
+                </div>
+            </div>
+            <!-- Red Table -->
+            <div class="col-md-4">
+                <div class="pricing-table red h-100 d-flex flex-column">
+                    <!-- Table Head -->
+                    <div class="pricing-label">Festpreis</div>
+                    <h2>SEO Elite</h2>
+                    <h5>Gemacht für Profis/Agenturen</h5>
+                    <!-- Features -->
+                    <div class="pricing-features">
+                        <div class="feature">Wie SEO Pro, plus<span><i class="fas fa-check-circle"></i></span></div>
+                        <div class="feature">8 hochwertige Blog-Posts inkl. Verlinkung in Social Media (total 16)<span><i class="fas fa-check-circle"></i></span></div>
+                        <div class="feature">Optimierung vorhandenen Content<span><i class="fas fa-check-circle"></i></span></div>
+                        <div class="feature">Hochwertiges Link Building ( >100 / Monat)<span><i class="fas fa-check-circle"></i></span></div>
+                        <div class="feature">Speed Optimierung aller Seiten<span><i class="fas fa-check-circle"></i></span></div>
+                        <div class="feature">Laufzeit 12 Monate<span><i class="fas fa-check-circle"></i></span></div>
+                    </div>
+                    <!-- Price -->
+                    <div class="price-tag mt-auto">
+                        <span class="symbol">CHF</span>
+                        <span class="amount">3'899</span>
+                        <p class="pricing-label">/ 12 Monate</p>
+                    </div>
+                    <!-- Button -->
+                    <a class="price-button" href="#">Abonniere jetzt</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 <section class="bg-red mb-5">
     <div class="container">
         <div class="row py-5 m-0 text-white">
